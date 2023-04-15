@@ -1,3 +1,0 @@
-#EXTM3U
- 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://logo.iptveditor.com/a+.png" group-title="TV PREMIUM",A+ https://live3-ott.izzigo .tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream .adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackbnlacjkblñasf #EXTVLCOPT:http-referrer=https://bgtv.site: #EXTVLCOPT:network-caching=1000 #EXTVLCOPT: http-usuario-agente=Firefox
