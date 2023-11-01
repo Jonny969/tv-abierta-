@@ -1,0 +1,2850 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="101" timeshift="https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="TV NACIONAL",AZTECA UNO 
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="102" timeshift="https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png" group-title="TV NACIONAL",LAS ESTRELLAS 
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" timeshift="https://live3-ott.izzigo.tv/out/u/dash/IMAGEN-TV-HD/default.mpd" group-title="TV NACIONAL",IMAGEN TV
+https://live3-ott.izzigo.tv/out/u/dash/IMAGEN-TV-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="104" timeshift="https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png" group-title="TV NACIONAL",FORO TV
+https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="105" timeshift="https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png" group-title="TV NACIONAL",CANAL 5
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="106" timeshift="https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/820363-8c.png" group-title="TV NACIONAL",CANAL 6 CDMX
+https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="107" timeshift="https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png" group-title="TV NACIONAL",AZTECA 7
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="108" timeshift="http://live2-ott.izzigo.tv/out/u/dash/HERALDO-TV-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004236-8c.png" group-title="TV NACIONAL",HERALDO TV
+http://live2-ott.izzigo.tv/out/u/dash/HERALDO-TV-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="109" timeshift="https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TV NACIONAL",NUEVE
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="110" timeshift="https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="TV NACIONAL", A MAS MONTERREY SD
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="111" timeshif="https://live4-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="TV NACIONAL",CANAL ONCE
+https://live4-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="112" timeshift="https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518647-8c.png" group-title="TV NACIONAL",CANAL 11.2
+https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="113" tvg-logo="https://yt3.googleusercontent.com/fbfucsMR5LKdOiqcYmKNA5IjCDMvFZcwhtTcDd0UDtP8FyUie9DXWPbwGN5RLic8qemRUD2l=s900-c-k-c0x00ffffff-no-rj" group-title="TV NACIONAL", CANAL 13 VERACRUZ
+https://dbdfj5y8nz2u4.cloudfront.net/c13chiapas/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="114" timeshift="http://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/CANAL-14-HD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="TV NACIONAL",CANAL 14
+http://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/CANAL-14-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="116" tvg-logo="https://www.megacable.com.mx/images/canales/115_mvstv.png" group-title="TV NACIONAL", MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="118" timeshift="https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUV6dNpTUGDBtBWfsuiWOnR0gVgLvdQpDpg&usqp=CAU" group-title="TV NACIONAL",QUIERO TV
+https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="120" timeshift="https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/TV-UNAM-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425558-8c.png" group-title="TV NACIONAL",TV UNAM SD
+https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/TV-UNAM-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="121" timeshift="https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/CAPITAL-21-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="TV NACIONAL",CAPITAL 21
+https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/CAPITAL-21-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="122" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496852-8c.png" group-title="TV NACIONAL", CANAL 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="123" timeshift="https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1048602-8c.png" group-title="TV NACIONAL",MX NUESTRO CINE
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="125" timeshift="https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531194-8c.png" group-title="TV NACIONAL",JUSTICIA TV
+https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="126" timeshift="https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/525568-8c.png" group-title="TV NACIONAL",MILENIO
+https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="127" timeshift="https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/VIBE-TV-SD/default.mpd" tvg-logo="https://www.vibetv.mx/wp-content/uploads/2020/07/vibe_logo_2x_544x180-300x99.png" group-title="TV NACIONAL",VIBE TV
+https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/VIBE-TV-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="128" timeshift="http://live5-ott.izzigo.tv/out/u/dash/AMX-NOTICIAS-SD/default.mpd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ06N3T_QpADD2INwlyHtlOrPr6TGZ6FkdYEg&usqp=CAU" group-title="TV NACIONAL",AMX NOTICIAS
+http://live5-ott.izzigo.tv/out/u/dash/AMX-NOTICIAS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="129" timeshift="http://live1-ott.izzigo.tv/out/u/dash/EXCELSIOR-HD/default.mpd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Gj8JbS8RaZ1QYnUc_GwqRoDO6WpMGgWiJQ&usqp=CAU" group-title="TV NACIONAL",EXCELSIOR TV
+http://live1-ott.izzigo.tv/out/u/dash/EXCELSIOR-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="130" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/965016-8c.png" group-title="TV NACIONAL", MEXIQUENSE TV
+https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="133" timeshift="https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd" tvg-logo="https://cdn.shopify.com/s/files/1/0157/7084/5232/files/cvshoping-outlet-logo-2_180x.png?v=1613780572" group-title="TV NACIONAL",CV SHOPPING OUTLET
+https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="135" timeshift="https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/421932-8c.png" group-title="TV NACIONAL", INGENIO TV SD
+https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="136" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV NACIONAL", TV MAS VERACRUZ
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="137" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2023/03/FreeTV-Logo.png" group-title="TV NACIONAL", FREE TV
+https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="140" timeshift="https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/ADN-40-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png" group-title="TV NACIONAL",ADN 40 
+https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/ADN-40-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="145" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Images/Generales/451.png" group-title="TV NACIONAL", CANAL DEL CONGRESO 45.1
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/chunklist_w709270233_b3003000.m3u8
+
+#EXTINF: -1 tvg-chno="146" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Images/Generales/452.png" group-title="TV NACIONAL", CANAL DEL CONGRESO 45.2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/chunklist_w1792620194_b3003000.m3u8
+
+#EXTINF: -1 tvg-chno="147" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Images/Generales/453.png" group-title="TV NACIONAL", CANAL DEL CONGRESO 45.3
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/chunklist_w483011975_b6003000.m3u8
+
+#EXTINF: -1 tvg-chno="148" tvg-logo="https://pbs.twimg.com/profile_images/1126903293244997632/uT7kJs8I_400x400.png" group-title="TV NACIONAL", CANAL 10 CHIAPAS
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w1790043352.m3u8
+
+
+ENTRETENIMIENTO
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="149" timeshift="https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_Izzi.svg/1200px-Logo_Izzi.svg.png" group-title="IZZI",CANAL IZZI
+https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="150" timeshifth="https://d30wldjmree37l.cloudfront.net/out/v1/f63563de06f94d00acf786699de9cc28/mosaico2.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_Izzi.svg/1200px-Logo_Izzi.svg.png" group-title="MOSAICO",MOSAICO 1
+https://d30wldjmree37l.cloudfront.net/out/v1/f63563de06f94d00acf786699de9cc28/mosaico2.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 tvg-chno="152" group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png", LAS ESTRELLAS 2 OPCION
+https://bit.ly/Iptvpromx2_channel1_cdmx
+
+#EXTINF:-1 tvg-chno="153" group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png", LAS ESTRELLAS INTERNACIONAL 
+https://bit.ly/Iptvpromxlasestrellasinternacional_mx
+
+#EXTINF:-1 tvg-chno="154" group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416532-8c.png", AZTECA UNO -1HRS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="155" timeshift="https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416519-8c.png" group-title="ENTRETENIMIENTO",AZTECA UNO -2HRS
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="156" timeshift="https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/487020-8c.png" group-title="ENTRETENIMIENTO",LAS ESTRELLAS -1HRS 
+https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="157" timeshift="https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png" group-title="ENTRETENIMIENTO",LAS ESTRELLAS -2HRS 
+https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="202" timeshift="https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png" group-title="ENTRETENIMIENTO",STAR CHANNEL
+https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="203" timeshift="http://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1095174-8c.png" group-title="ENTRETENIMIENTO",SONY CHANNEL
+http://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="205" timeshift="https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png" group-title="ENTRETENIMIENTO",WARNER CHANNEL
+https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="206" tvg-logo="https://www.megacable.com.mx/images/canales/1144_pasiones-hd.png" group-title="NOVELAS", PASIONES
+https://bit.ly/Iptvpromxpasionesfhd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="207" timeshift="http://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png" group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL
+http://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="209" timeshift="https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416547-8c.png" group-title="ENTRETENIMIENTO",FX
+https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="211" timeshift="https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416551-8c.png" group-title="ENTRETENIMIENTO",A&E
+https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="213" timeshift="https://live3-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422008-8c.png" group-title="ENTRETENIMIENTO",AXN
+https://live3-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="215" timeshift="https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425209-8c.png" group-title="ENTRETENIMIENTO",TRU TV
+https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="217" timeshift="http://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505134-8c.png" group-title="ENTRETENIMIENTO" COMEDY CENTRAL
+http://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="218" timeshift="http://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416559-8c.png" group-title="ENTRETENIMIENTO",UNICABLE
+http://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="219" timeshift="http://live1-ott.izzigo.tv/out/u/dash/HOLA-TV-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png" group-title="ENTRETENIMIENTO",HOLA TV
+http://live1-ott.izzigo.tv/out/u/dash/HOLA-TV-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="221" timeshift="https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416561-8c.png" group-title="ENTRETENIMIENTO",MAS CHIC
+https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="222" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486321-8c.png" group-title="ENTRETENIMIENTO", MY ZEN TV
+https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="226" timeshift="https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425217-8c.png" group-title="ENTRETENIMIENTO",FOOD NETWORK
+https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="255" timeshift="https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416571-8c.png" group-title="ENTRETENIMIENTO" !E
+https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="257" timeshift="https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1102352-8c.png" group-title="ENTRETENIMIENTO",USA TV
+https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="266" timeshift="http://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO",TNT SERIES
+http://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="233" timeshift="https://live1-ott.izzigo.tv/out/u/dash/TNT-NOVELAS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1080162-8c.png" group-title="NOVELAS",TNT NOVELAS 
+https://live1-ott.izzigo.tv/out/u/dash/TNT-NOVELAS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="268" timeshift="http://live1-ott.izzigo.tv/out/u/dash/GOURMET-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1073911-8c.png" group-title="COCINA",EL GOURMET
+http://live1-ott.izzigo.tv/out/u/dash/GOURMET-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="272" timeshift="https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416579-8c.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="274" timeshift="http://live4-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd" tvg-logo="https://www.megacable.com.mx/images/canales/340_glitz.png" group-title="ENTRETENIMIENTO",GLITZ
+http://live4-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="275" timeshift="https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416583-8c.png" group-title="NOVELAS",TLNOVELAS SD
+https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="277" timeshift="https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416587-8c.png" group-title="ENTRETENIMIENTO",TELEMUNDO
+https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#EXTINF: -1 tvg-chno="279" tvg-logo="https://sony-canal.com/sites/g/files/objgke201/files/styles/discover_menu_icon/public/2022-11/menu_icon_12130.png?itok=JZwuWYcJ" group-title="NOVELAS", SONY NOVELAS 
+https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="280" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1083007-8c.png" group-title="NOVELAS", CORAZON
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+#EXTINF: -1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="ENTRETENIMIENTO", AZTECA INTERNACIONAL 
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="285"  group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082935-8c.png", CINEMA
+http://177.53.153.21:8001/play/a03h/index.m3u8
+
+#EXTINF:-1 tvg-chno="292" group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082989-8c.png", CLIC 
+http://167.250.222.35:16000/play/a04j/index.m3u8
+
+
+NIÑOS🧒
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="300" timeshift="https://d12bww9t7e6mtv.cloudfront.net/out/v1/ec80106d36e44980a295c5fc10c133c2/ninos.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_Izzi.svg/1200px-Logo_Izzi.svg.png" group-title="MOSAICO",NIÑOS
+https://d12bww9t7e6mtv.cloudfront.net/out/v1/ec80106d36e44980a295c5fc10c133c2/ninos.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="301" timeshift="http://live4-ott.izzigo.tv/out/u/dash/BABY-TV-SD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425225-8c.png" group-title="NIÑOS",BABY TV SD
+http://live4-ott.izzigo.tv/out/u/dash/BABY-TV-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="303" timeshift="https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png" group-title="NIÑOS",DISCOVERY KIDS
+https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="307" timeshift="https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png" group-title="NIÑOS",DISNEY CHANNEL
+https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="308" timeshift="https://live5-ott.izzigo.tv/out/u/dash/DISNEY-JR-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416593-8c.png" group-title="NIÑOS",DISNEY JR
+https://live5-ott.izzigo.tv/out/u/dash/DISNEY-JR-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="310" timeshift="https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416595-8c.png" group-title="NIÑOS",NICK JR
+https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="315" timeshift="https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1096959-8c.png" group-title="NIÑOS",NICK
+https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="316" timeshift="https://live4-ott.izzigo.tv/out/u/dash/NICK2-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518587-8c.png" group-title="NIÑOS",TEEN NICK
+https://live4-ott.izzigo.tv/out/u/dash/NICK2-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="320" timeshift="https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416605-8c.png" group-title="NIÑOS",CARTOON NETWORK HD
+https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="324" timeshift="https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/942888-8c.png" group-title="NIÑOS",CARTOONITO
+https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="326" timeshift="https://live4-ott.izzigo.tv/out/u/dash/BITME-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416611-8c.png" group-title="NIÑOS",BITME
+https://live4-ott.izzigo.tv/out/u/dash/BITME-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="328" timeshift="http://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425237-8c.png" group-title="NIÑOS",TOONCAST
+http://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="330" timeshift="http://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd" tvg-logo="https://www.izzigo.tv/images/repository/12121904-LOGO-m.png" group-title="NIÑOS",DREAMWORKS
+http://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="331" timeshift="https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="NIñOS",CLAN TV
+https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+MUNDO Y CULTURA 🌍
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="350" timeshift="https://dcuoufxq35cz8.cloudfront.net/out/v1/a9d3147ac14440f8aa6af49a98e09e59/mundo.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_Izzi.svg/1200px-Logo_Izzi.svg.png" group-title="MOSAICO",MUNDO Y CULTURA 
+https://dcuoufxq35cz8.cloudfront.net/out/v1/a9d3147ac14440f8aa6af49a98e09e59/mundo.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="352" timeshift="https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964936-8c.png" group-title="MUNDO Y CULTURA",HISTORY CHANNEL
+https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="353" timeshift="https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964952-8c.png" group-title="MUNDO Y CULTURA",HISTORY 2
+https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="354" timeshift="https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425245-8c.png" group-title="MUNDO Y CULTURA",NAT GEO
+https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="356" timeshift="https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png" group-title="MUNDO Y CULTURA", DISCOVERY CHANNEL 
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="357" timeshift="https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425261-8c.png" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="358" timeshift="https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/992395-8c.png" group-title="MUNDO Y CULTURA",DISCOVERY H&H
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="359" timeshift="https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png" group-title="MUNDO Y CULTURA", DISCOVERY ID
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="360" timeshift="https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png" group-title="MUNDO Y CULTURA", DISCOVERY THEATHER
+https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="361" timeshift="https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425247-8c.png" group-title="MUNDO Y CULTURA", DISCOVERY WORLD
+https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="362" timeshift="https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png" group-title="MUNDO Y CULTURA",DISCOVERY TURBO
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="363" timeshift="https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486323-8c.png" group-title="MUNDO Y CULTURA",HGTV
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="364" timeshift="https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425249-8c.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET
+https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="365" timeshift="https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004415-8c.png" group-title="MUNDO Y CULTURA",TLC
+#https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="367" timeshift="https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522142-8c.png" group-title="MUNDO Y CULTURA",LIFETIME
+https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="369" timeshift="http://live2-ott.izzigo.tv/out/u/dash/CURIOSITY-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425259-8c.png" group-title="MUNDO Y CULTURA",CURIOSITY STREAM 
+http://live2-ott.izzigo.tv/out/u/dash/CURIOSITY-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="370" timeshift="https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZff6y240QjrRF0s34MWl1zTQM9ake7543HA&usqp=CAU" group-title="MUNDO Y CULTURA",DOG TV
+https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="372" tvg-logo="https://image.roku.com/developer_channels/prod/2183337cdcab5889914bf7d1c79a8d920c557fbee66710a9222f8c73f2159581.png" group-title="MUNDO Y CULTURA", PRESUMIENDO MEXICO
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist_w544166504_b1428000_sleng.m3u8
+
+
+RELIGION🕊️🕊️
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="388" timeshift="https://live1-ott.izzigo.tv/out/u/dash/EWTN-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="RELIGION",EWTN
+https://live1-ott.izzigo.tv/out/u/dash/EWTN-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="390" timeshift="https://live3-ott.izzigo.tv/out/u/dash/MARIAVISION-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="RELIGION",MARIAVISION
+https://live3-ott.izzigo.tv/out/u/dash/MARIAVISION-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="391" timeshift="https://live5-ott.izzigo.tv/out/u/dash/ENLACE-SD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416627-8c.png" group-title="RELIGION",ENLACE
+https://live5-ott.izzigo.tv/out/u/dash/ENLACE-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="395" timeshift="https://live5-ott.izzigo.tv/out/u/dash/ESNE-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425271-8c.png" group-title="RELIGION",ESNE
+https://live5-ott.izzigo.tv/out/u/dash/ESNE-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="399" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="RELIGION", NUEVO TIEMPO
+https://stream.live.novotempo.com:443/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
+
+PREMIUM ⭐ V-I-P ⭐
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="400" timeshift="https://dwupwmhnd5p0c.cloudfront.net/out/v1/8932c386929845d1b627af64e9d3e0aa/mhbo.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_Izzi.svg/1200px-Logo_Izzi.svg.png" group-title="MOSAICO",HBO mosaico
+https://dwupwmhnd5p0c.cloudfront.net/out/v1/8932c386929845d1b627af64e9d3e0aa/mhbo.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="401" timeshift="https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",HBO
+https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="402" timeshift="https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="HBO",HBO 2
+https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="403" timeshift="https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png" group-title="HBO",HBO SIGNATURE
+https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="404" timeshift="https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png" group-title="HBO",HBO FAMILY
+https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="405" timeshift="https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" group-title="HBO",HBO PLUS
+https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="406" timeshift="https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png" group-title="HBO",HBO MUNDI
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="407" timeshift="https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png" group-title="HBO",HBO POP
+https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="408" timeshift="https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" group-title="HBO",HBO XTREME
+https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="450" timeshift="https://d3mspciwfw6hm0.cloudfront.net/out/v1/edccab1d5fd94afe8da020e20efcfa33/mfox.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_Izzi.svg/1200px-Logo_Izzi.svg.png" group-title="UNIVERSAL PLUS",UNIVERSAL PLUS
+https://d3mspciwfw6hm0.cloudfront.net/out/v1/edccab1d5fd94afe8da020e20efcfa33/mfox.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="451" timeshift="http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943062-8c.png" group-title="UNIVERSAL PLUS",UNIVERSAL PLUS PREMIERE
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="452" timeshift="http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943073-8c.png" group-title="UNIVERSAL PLUS", UNIVERSAL PLUS CINEMA
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="453" timeshift="http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943089-8c.png" group-title="UNIVERSAL PLUS",UNIVERSAL PLUS COMEDY
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="454" timeshift="http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943091-8c.png" group-title="UNIVERSAL PLUS", UNIVERSAL PLUS CRIMEN
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="455" timeshift="http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943093-8c.png" group-title="UNIVERSAL PLUS", UNIVERSAL PLUS REALITY
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="460" timeshift="https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es" group-title="GOLDEN PREMIERE",GOLDEN PREMIERE
+https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="462" timeshift="https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es" group-title="GOLDEN PREMIERE",GOLDEN PREMIER - 2HRS
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+🎥PELICULAS🎬
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="465" timeshift="https://d23krjoz8267fm.cloudfront.net/out/v1/2ea9d7594d1a4e6ea9fe18089bfc4cec/peliculas.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_Izzi.svg/1200px-Logo_Izzi.svg.png" group-title="MOSAICO",PELÍCULAS
+https://d23krjoz8267fm.cloudfront.net/out/v1/2ea9d7594d1a4e6ea9fe18089bfc4cec/peliculas.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="467" timeshift="https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486317-8c.png" group-title="PELICULAS",A3CINE
+https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="469" timeshift="http://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416631-8c.png" group-title="PELICULAS", PARAMOUNT CHANNEL
+http://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="470" timeshift="https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425300-8c.png" group-title="PELICULAS",CINECANAL
+https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="472" timeshift="http://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425302-8c.png" group-title="PELICULAS",TNT
+http://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="475" timeshift="https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png" group-title="PELICULAS",GOLDEN SD
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="476" timeshift="https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png" group-title="PELICULAS",GOLDEN PLUS
+https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="477" timeshift="https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543978-8c.png" group-title="PELICULAS",GOLDEN EDGE
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="479" timeshift="https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604399-8c.png" group-title="PELICULAS",DE PELICULA SD
+https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="480" timeshift="https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604212-8c.png" group-title="PELICULAS",DE PELICULA PLUS
+https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="482" timeshift="https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505128-8c.png" group-title="PELICULAS",AMC
+https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="484" timeshift="https://live1-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425308-8c.png" group-title="PELICULAS",SPACE
+https://live1-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="486" timeshift="http://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/995744-8c.png" group-title="PELICULAS",SONY MOVIES 
+http://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="488" timeshift="https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png" group-title="PELICULAS",CINEMAX
+https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="489" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052922-8c.png" group-title="ENTRETENIMIENTO", CORTOS
+https://amc-cortos-1-us.plex.wurl.tv:443/6dbbaa2db12ab50781c9147553a6f01d.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="490" timeshift="https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425350-8c.png" group-title="PELICULAS",STUDIO UNIVERSAL
+https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="491" timeshift="https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425364-8c.png" group-title="PELICULAS",EUROPA EUROPA 
+https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="492" timeshift="https://live4-ott.izzigo.tv/out/u/dash/FILMANDARTS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425366-8c.png" group-title="PELICULAS",FILM&ARTS
+https://live4-ott.izzigo.tv/out/u/dash/FILMANDARTS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="493" timeshift="http://live3-ott.izzigo.tv/out/u/dash/I-SAT-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416653-8c.png" group-title="PELICULAS",I SAT SD
+http://live3-ott.izzigo.tv/out/u/dash/I-SAT-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="494" timeshift="http://live5-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png" group-title="PELICULAS",TCM SD
+http://live5-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 tvg-chno="495" group-title="PELICULAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs3WxcOCJGn4v2NZcVFDan_Jx6Jy6Tyq4CBw&usqp=CAU", CLARO CINEMA
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CLAROCINEMA)/index.m3u8
+
+#EXTINF:-1 tvg-chno="496" group-title="NIÑOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png", CANAL CLARO
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CANALCLAROHD)/index.m3u8
+
+
+#EXTINF: -1 tvg-chno="497" tvg-logo="https://www.megacable.com.mx/images/canales/461_multipremier.png" group-title="PELICULAS", MULTIPREMIER
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MULTIPREMIER)/index.m3u8
+
+#EXTINF: -1 tvg-chno="498" tvg-logo="https://www.megacable.com.mx/images/canales/458_multicinema.png" group-title="PELICULAS", MC
+https://bit.ly/Iptvpromxmc_channel_1_cdn_mx
+
+#EXTINF: -1 tvg-chno="499" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/382.png" group-title="PELICULAS", CINE LATINO
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINELATINO)/index.m3u8
+
+#EXTINF:-1 tvg-chno="500" group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/1492_cmc_imagen_1634665407.png", CINE MEXICANO
+https://dxmwlv9y37d4r.cloudfront.net/CINEMEXICANO/master.m3u8
+
+
+#EXTINF:-1 tvg-chno="501" group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/1299_panico-hd.png", PANICO
+https://dxmwlv9y37d4r.cloudfront.net/PANICO_HD/master.m3u8
+
+
+#EXTINF:-1 tvg-chno="502" group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/1434_cinema-platino-hd.png", CINEMA PLATINO
+https://dxmwlv9y37d4r.cloudfront.net/PLATINO_HD/master.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="503" group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", CINEMA PLATINO 2
+https://dxmwlv9y37d4r.cloudfront.net/PLATINO2/master.m3u8
+
+
+#EXTINF:-1 tvg-chno="504" group-title="PELICULAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1016572-8c.png", DHE
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DHEHD)/index.m3u8
+
+
+⚽DEPORTES⚽
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="510" timeshift="https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/deportes.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_Izzi.svg/1200px-Logo_Izzi.svg.png" group-title="MOSAICO",DEPORTES 
+https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/deportes.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="513" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425368-8c.png" group-title="DEPORTES",GOLF CHANNEL
+https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="515" timeshift="http://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425370-8c.png" group-title="DEPORTES",NFL
+http://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="517" timeshift="http://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416657-8c.png" group-title="DEPORTES", TUDN
+http://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="519" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest?cb=20200824001045&path-prefix=es" group-title="DEPORTES", TYC SPORTS PLAY
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+
+#EXTINF: -1 tvg-chno="520" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest?cb=20200824001045&path-prefix=es" group-title="DEPORTES", TYC SPORTS PLAY 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+
+#EXTINF: -1 tvg-chno="522" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="DEPORTES", TYC SPORTS
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="523" timeshift="https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png" group-title="DEPORTES",ESPN
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="524" timeshift="https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png" group-title="DEPORTES",ESPN 2
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="525" timeshift="https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425374-8c.png" group-title="DEPORTES",ESPN 3
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="526" timeshift="https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1046022-8c.png" group-title="DEPORTES",ESPN EXTRA
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 tvg-chno="527" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png", ESPN4
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN4HD)/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="529" timeshift="http://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425376-8c.png" group-title="DEPORTES",FOX SPORTS 
+http://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="530" timeshift="http://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425378-8c.png" group-title="DEPORTES",FOX SPORTS 2
+http://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="531" timeshift="http://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425386-8c.png" group-title="DEPORTES", FOX SPORTS 3
+http://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="532" timeshift="https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLc3lof7LJbulM5TVkJuXEXlzy6N6wBn-pVA&usqp=CAU" group-title="TV NACIONAL",FOX SPORTS PREMIUM 
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="538" timeshift="https://live4-ott.izzigo.tv/out/u/dash/PX-SPORTS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425380-8c.png" group-title="DEPORTES",PX SPORTS
+https://live4-ott.izzigo.tv/out/u/dash/PX-SPORTS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="540" timeshift="https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531196-8c.png" group-title="DEPORTES", ADRENALINA SPORTS NETWORKS
+https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="544" timeshift="http://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES",AFIZZIONADOS
+http://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="546" timeshift="https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="DEPORTES",REAL MADRID TV
+https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 tvg-chno="558" group-title="DEPORTES" tvg-logo="https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg", TVC DEPORTES 
+https://dxmwlv9y37d4r.cloudfront.net/TVCDEP_HD/master.m3u8
+
+
+#EXTINF:-1 tvg-chno="563" group-title="DEPORTES" tvg-logo="https://www.megacable.com.mx/images/canales/673_tvc-deportes.png", TVC DEPORTES 2
+https://dxmwlv9y37d4r.cloudfront.net/TVCDEP2/master.m3u8
+
+
+#EXTINF: -1 tvg-chno="576" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", SKY SPORTS
+https://bit.ly/3LOW2YE
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="585" timeshift="https://live2-ott.izzigo.tv/out/u/dash/NBA-HD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="DEPORTES",NBA TV
+https://live2-ott.izzigo.tv/out/u/dash/NBA-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 tvg-chno="598" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png", CLARO SPORTS
+https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
+
+#EXTINF:-1 tvg-chno="599" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425265-8c.png", TRAVELXP
+http://177.53.153.21:8001/play/a02m/index.m3u8
+
+
+
+📰NOTICIAS📡📺
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="600" timeshift="https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/informacion.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_Izzi.svg/1200px-Logo_Izzi.svg.png" group-title="MOSAICO",NOTICIAS
+https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/informacion.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="605" timeshift="https://live4-ott.izzigo.tv/out/u/dash/24-HRS-SD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="NOTICIAS",24 HRS SD
+https://live4-ott.izzigo.tv/out/u/dash/24-HRS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="608" timeshift="http://live4-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425390-8c.png" group-title="NOTICIAS",CNN
+http://live4-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="609" timeshift="https://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425402-8c.png" group-title="NOTICIAS",CNN INTERNACIONAL 
+https://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="610" timeshift="https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425402-8c.png" group-title="NOTICIAS",CNN EN ESPAÑOL
+https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="612" timeshift="https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425392-8c.png" group-title="NOTICIAS",FOX NEWS
+https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="616" timeshift="https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425394-8c.png" group-title="NOTICIAS",RT
+https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="620" tvg-logo="https://www.megacable.com.mx/images/canales/1556_meganoticias-mx_imagen_1638377375.png" group-title="NOTICIAS", MEGANOTICIAS
+https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="628" timeshift="https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416401-8c.png" group-title="NOTICIAS", BLOOMBERG 
+https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="630" timeshift="https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png" group-title="NOTICIAS",BBC WORLD NEWS
+https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="635" timeshift="https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416693-8c.png" group-title="NOTICIAS",ALJAZEERA
+https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="638" timeshift="https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416421-8c.png" group-title="NOTICIAS",TELEFORMULA
+https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="642" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMKQB8hn6HfzIFy37sQ534U0U2BcRxqYm3EPh8m=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS", FRANCE 24
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="644" timeshift="https://live3-ott.izzigo.tv/out/u/dash/CNBC-HD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/800px-CNBC_logo.svg.png" group-title="NOTICIAS",CNBC
+https://live3-ott.izzigo.tv/out/u/dash/CNBC-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="645" timeshift="https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd" tvg-logo="https://yt3.googleusercontent.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg=s900-c-k-c0x00ffffff-no-rj" group-title="TV NACIONAL",EURONEWS
+https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 tvg-chno="647" group-title="NIÑOS" tvg-logo="https://www.megacable.com.mx/images/canales/1560_meganoticias-mx-hd_imagen_1638377401.png", MEGANOTICIAS MX
+https://dxmwlv9y37d4r.cloudfront.net/MN_MX_HD/master.m3u8
+
+#EXTINF:-1 tvg-chno="649" group-title="NOTICIAS" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png?fit=1920%2C1080&ssl=1", CANAL 4 GUADALAJARA
+https://bit.ly/Iptvpromx4_channel1_mx
+
+#EXTINF:-1 tvg-chno="651" group-title="NOTICIAS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png", CANAL 8 MONTERREY 
+https://bit.ly/Iptvpromx8_channel1_mx
+
+#EXTINF:-1 tvg-chno="654" group-title="NOTICIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2R8YQNWB7OrGq1ylxB_eOrSFZyhXHCggPg&usqp=CAU", CDN
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CDNHD)/index.m3u8
+
+
+🌍INTERNACIONAL✈️
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="659" timeshift="https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425410-8c.png" group-title="INTERNACIONAL",HLN
+https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="662" timeshift="http://live5-ott.izzigo.tv/out/u/dash/ANTENA-3-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425412-8c.png" group-title="INTERNACIONAL",ANTENA 3
+http://live5-ott.izzigo.tv/out/u/dash/ANTENA-3-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="668" timeshift="https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425414-8c.png" group-title="INTERNACIONAL", TV GALICIA
+https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="671" timeshift="http://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png" group-title="INTERNACIONAL",DW
+http://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="677" timeshift="https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png" group-title="INTERNACIONAL",DW EN ESPAÑOL 
+https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="684" timeshift="https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425423-8c.png" group-title="INTERNACIONAL",ATRESSERIES
+https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="689" timeshift="https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425429-8c.png" group-title="INTERNACIONAL",RAI ITALIA
+https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="691" timeshift="http://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425427-8c.png" group-title="INTERNACIONAL",STAR TVE
+http://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="693" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425435-8c.png" group-title="INTERNACIONAL", ARIRANG
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="695" timeshift="https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/800px-Logo_TV5_Monde_-_2021.svg.png" group-title="INTERNACIONAL",TV5 MODE LATIN AMERICA SD
+https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="696" timeshift="https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425441-8c.png" group-title="INTERNACIONAL",TELEFE
+https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="697" timeshift="https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/907504-8c.png" group-title="INTERNACIONAL",NHK WORLD
+https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="698" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg .png" group-title="INTERNACIONAL", TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="699" timeshift="https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/TV_Globo_Logo_2021.png" group-title="INTERNACIONAL",TV GLOBO
+https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+🎵MUSICA🎵
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="701" timeshift="https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425451-8c.png" group-title="MUSICA",MTV LIVE
+https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="703" timeshift="https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518653-8c.png" group-title="MUSICA",MTV HITS
+https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="705" timeshift="http://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png" group-title="MUSICA",MTV
+http://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="710" timeshift="https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/896490-8c.png" group-title="MUSICA",MTV "00"
+https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="725" timeshift="http://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527066-8c.png" group-title="MUSICA",MTV "80"
+http://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="727" timeshift="https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518655-8c.png" group-title="MUSICA",CLUB MTV
+https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="729" timeshift="http://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522528-8c.png" group-title="MUSICA",TELEHIT SD
+http://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="732" timeshift="https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518700-8c.png" group-title="MUSICA", TELEHIT MUSICA PLUS
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="733" timeshift="https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518698-8c.png" group-title="MUSICA",TELEHIT URBANO
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="734" timeshift="https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522531-8c.png" group-title="MUSICA", BANDAMAX 
+https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="736" timeshift="https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425469-8c.png" group-title="MUSICA",MUCH MUSIC
+https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="738" timeshift="http://live1-ott.izzigo.tv/out/u/dash/TELERITMO-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png" group-title="MUSICA",TELERITMO
+http://live1-ott.izzigo.tv/out/u/dash/TELERITMO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="739" timeshift="https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515940-8c.png" group-title="MUSICA",NICK MUSIC
+https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF: -1 tvg-chno="740" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png" group-title="MUSICA", EXA TV
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EXATV)/index.m3u8
+
+#EXTINF:-1 tvg-chno="742" group-title="MUSICA" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest?cb=20150406181433&path-prefix=es", CONCERT CHANNEL
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CONCERTCHANNELHD)/index.m3u8
+
+#EXTINF:-1 tvg-chno="743" group-title="MUSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNO6kmCnxwwP8KO6AmMNjkDK86QcSKlRNO3w&usqp=CAU", CLARO MUSICA
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CLAROMUSICA)/index.m3u8
+
+
+#EXTINF: -1 tvg-chno="744" tvg-logo="https://www.megacable.com.mx/images/canales/704_video-rola.png" group-title="MUSICA", VIDEO ROLA
+https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
+
+#EXTINF: -1 tvg-chno="745" tvg-logo="https://www.megacable.com.mx/images/canales/1296_vr-plus-hd.png" group-title="MUSICA", VIDEOROLA +
+https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8
+
+#EXTINF: -1 tvg-chno="746" tvg-logo="https://www.megacable.com.mx/images/canales/1288_beat-box.png" group-title="MUSICA", BEAT BOX
+https://dxmwlv9y37d4r.cloudfront.net/BEATBOX/master.m3u8
+
+#EXTINF: -1 tvg-chno="747" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/266.png" group-title="MUSICA", LA MEJOR 
+https://bit.ly/48Ldkju
+
+#EXTINF: -1 tvg-chno="748" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/640px-Htv_logo.svg.png" group-title="MUSICA", H TV
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV)/index.m3u8
+
+#EXTINF: -1 tvg-chno="749" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/styles/large/public/0523_sn_website_launch_meta-image_1200x628_v01.png?itok=ab0Ae-hA" group-title="MUSICA", STINGRAY NATURESCAPE
+https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1920x1080_5711200/index.m3u8
+
+🎵STINGRAY MUSIC🎵
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="750" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505102-8c.png" group-title="STINGRAY MUSIC",ROMANCE LATINO
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-ROMANCE-LATINO/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="751" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505113-8c.png" group-title="STINGRAY MUSIC", MARIACHI PARA SIEMPRE
+https://live3-ott.izzigo.tv/out/u/dash/MUSIC-MARIACHI-PARA-SIEMPRE/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="752" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505057-8c.png" group-title="STINGRAY MUSIC", REGGAETON
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-REGGAETON/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="753" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505108-8c.png" group-title="STINGRAY MUSIC",VIVA MEXICO
+https://live3-ott.izzigo.tv/out/u/dash/MUSIC-VIVA-MEXICO/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="754" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505106-8c.png" group-title="STINGRAY MUSIC",ROCK EN ESPAÑOL
+https://live3-ott.izzigo.tv/out/u/dash/MUSIC-R0CK-ESPANOL/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="755" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505081-8c.png" group-title="STINGRAY MUSIC", POP LATINO ACTUAL
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-POP-LATINO-ACTUAL/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="756" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505104-8c.png" group-title="STINGRAY MUSIC",LATIN LOUNGE
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-LATIN-LOUNGE/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="757" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485266-8c.pngpp" group-title="STINGRAY MUSIC",LATINO TROPICAL
+https://live2-ott.izzigo.tv/out/u/dash/MUSIC-LATINO-TROPICAL/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="758" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485266-8c.pngpp" group-title="STINGRAY MUSIC", LATINO TROPICAL
+https://live2-ott.izzigo.tv/out/u/dash/MUSIC-LATINO-TROPICAL/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="759" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505120-8c.png" group-title="STINGRAY MUSIC",TANGO
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-TANGO/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="760" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505079-8c.png" group-title="STINGRAY MUSIC",SALSA MERENGUE
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-SALSA-MERENGUE/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="761" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496872-8c.png" group-title="STINGRAY MUSIC",VIEJOTAS BUENÍSIMAS
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-VIEJOTAS-BUENISIMAS/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="762" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485268-8c.png" group-title="STINGRAY MUSIC",SOLO PEQUES 
+https://live2-ott.izzigo.tv/out/u/dash/MUSIC-SOLO-PEQUES/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="763" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png" group-title="STINGRAY MUSIC",SAMBA
+https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SAMBA-PAGODE/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="764" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485127-8c.png" group-title="STINGRAY MUSIC",ROMPEPISTA
+https://live2-ott.izzigo.tv/out/u/dash/MUSIC-ROMPEPISTAS/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="765" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1200px-Stingray_Music_logo.svg.png" group-title="STINGRAY MUSIC",ROCK DE BRASIL
+https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-BRASIL/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="766" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png" group-title="STINGRAY MUSIC",ROCK ALTERNATIVO 
+https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-ALTERNATIVO/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="767" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496890-8c.png" group-title="STINGRAY MUSIC ",CLASICO PARA TODOS
+https://live5-ott.izzigo.tv/out/u/dash/POPULAR-CLASSICAL/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="768" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485131-8c.png" group-title="STINGRAY MUSIC",POPCORN
+https://live2-ott.izzigo.tv/out/u/dash/MUSIC-POPCORN/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="769" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496892-8c.png" group-title="STINGRAY MUSIC",POP ADULTO
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-POP-ADULTO/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="770" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515640-8c.png" group-title="STINGRAY MUSIC",OPERA PLUS
+https://live1-ott.izzigo.tv/out/u/dash/MUSIC-OPERA-PLUS/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="771" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485143-8c.png" group-title="STINGRAY MUSIC",NEW AGE
+https://live3-ott.izzigo.tv/out/u/dash/MUSIC-NEW-AGE/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="772" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505122-8c.png" group-title="STINGRAY MUSIC",MUSICA DEL MUNDO 🌎
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-DEL-MUNDO/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="773" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485153-8c.png" group-title="STINGRAY MUSIC",MAESTROS DEL JAZZ
+https://live1-ott.izzigo.tv/out/u/dash/MUSIC-JMAESTROS-JAZZ/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="774" tvg-logo="https://www.izzi.mx/bcanales/img/canal845.png" group-title="STINGRAY MUSIC",MUSICA LIGERA
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-LIGERA/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="775" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485133-8c.png" group-title="STINGRAY MUSIC",JAZZ LATINO
+https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAZZ-LATINO/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="776" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496868-8c.png" group-title="STINGRAY MUSIC",JAMMIN REGGAE
+https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAMMIN-REGGAE/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="777" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496866-8c.png" group-title="STINGRAY MUSIC", HIMNOS DEL ROCK
+https://live2-ott.izzigo.tv/out/u/dash/MUSIC-HIMNOS-ROCK/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="778" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485167-8c.png" group-title="STINGRAY MUSIC",HARD ROCK
+https://live1-ott.izzigo.tv/out/u/dash/MUSIC-HARD-ROCK/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="779" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png" group-title="STINGRAY MUSIC",FIESTA CONTINUA
+https://live3-ott.izzigo.tv/out/u/dash/MUSIC-FIESTA-CONTINUA/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="780" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505126-8c.png" group-title="STINGRAY MUSIC",EXITOS DE ITALIA
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-ITALIA/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="781" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496870-8c.png" group-title="STINGRAY MUSIC",EXITOS RECIENTES
+https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-RECIENTES/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="782" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png" group-title="STINGRAY MUSIC",EXITOS DE BRASIL
+https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-BRASIL/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="783" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496884-8c.png" group-title="STINGRAY MUSIC",EXITOS DE LAS AMÉRICAS
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-AMERICAS/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="784" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505088-8c.png" group-title="STINGRAY MUSIC",EURO HITS
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-EURO-HITS/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="785" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505118-8c.png" group-title="STINGRAY MUSIC",ESTANDARES
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-ESTANDARES/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="786" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485151-8c.png" group-title="STINGRAY MUSIC",EL SALON CHILL
+https://live1-ott.izzigo.tv/out/u/dash/MUSIC-EL-SALON-CHILL/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="787" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png" group-title="STINGRAY MUSIC",SESIONES DANCEHALL
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-SESIONES-DANCEHALL/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="788" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485145-8c.png" group-title="STINGRAY MUSIC",COCKTAIL LOUNGE
+https://live1-ott.izzigo.tv/out/u/dash/MUSIC-COCKTAIL-LOUNGE/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="789" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505110-8c.png" group-title="STINGRAY MUSIC",CLUB DE BAILE 
+https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLUB-BAILE/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="790" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.pnghttps://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505124-8c.png" group-title="STINGRAY MUSIC",CLASSIC SOUL
+https://live2-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-SOUL/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="791" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505124-8c.png" group-title="STINGRAY MUSIC",MAESTRO CLASICO
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-MAESTROS-CLASICO/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="792" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png" group-title="STINGRAY MUSIC",INDIE
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-INDIE/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="793" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496886-8c.png" group-title="STINGRAY MUSIC",DANZA CLÁSICA
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-DANCE/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="794" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485264-8c.png" group-title="STINGRAY MUSIC",SILK
+https://live1-ott.izzigo.tv/out/u/dash/MUSIC-CANCIONES-AMOR/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="795" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png" group-title="STINGRAY MUSIC",POPULAR EN BRASIL
+https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POPULAR-BRASILEIRA/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="796" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496888-8c.png" group-title="STINGRAY MUSIC",BLUES
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-BLUES/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="797" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505115-8c.png" group-title="STINGRAY MUSIC",BIG BAND
+https://live3-ott.izzigo.tv/out/u/dash/MUSIC-BIG-BAND/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="798" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485165-8c.png" group-title="STINGRAY MUSIC",AÑOS 90
+https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-90/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="799" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485253-8c.png" group-title="STINGRAY MUSIC",AÑOS 80
+https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-80/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=dfsdfasdfg
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485193-8c.png" group-title="STINGRAY MUSIC",AÑOS 70
+https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-70/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+🎵MUSICA 2🎵
+
+
+#EXTINF:-1 tvg-chno="810" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY ROCK CLÁSICO
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+
+#EXTINF:-1 tvg-chno="811" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485193-8c.png", STINGRAY FLASHBACK 70S
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+
+#EXTINF:-1 tvg-chno="812" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", GRANDES ÉXITOS DE STINGRAY
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+
+#EXTINF:-1 tvg-chno="813" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", LISTA DE ÉXITOS DE STINGRAY
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+
+#EXTINF:-1 tvg-chno="814" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY PAÍS CALIENTE
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+
+#EXTINF:-1 tvg-chno="815" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY POP ADULTO
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+
+#EXTINF:-1 tvg-chno="816" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", ALTERNATIVA STINGRAY ROCK
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+
+#EXTINF:-1 tvg-chno="817" group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY POP LATINO
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+
+#EXTINF:-1 tvg-chno="818" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", RITMO URBANO DE STINGRAY
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+
+#EXTINF:-1 tvg-chno="819" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY TODO LOS 80S
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+
+
+
+📻RADIO📻
+
+
+#EXTINF: -1 tvg-chno="825" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vjx2vy3jvs9e.png" group-title="RADIO", RADIO OMEGA
+http://station.radionanet.com:6156/
+
+#EXTINF: -1 tvg-chno="826" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" group-title="RADIO", RADIO DISNEY
+https://22823.live.streamtheworld.com/XHFOFMAAC/HLS/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="827" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988" group-title="RADIO", AMOR FM CDMX
+https://13743.live.streamtheworld.com/XHSHFMAAC/HLS/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="828" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa" group-title="RADIO", MATCH FM CDMX
+https://23103.live.streamtheworld.com/XHPOPFMAAC/HLS/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="829" tvg-logo="https://i.iheart.com/v3/re/new_assets/6230ca02be123875849470cd" group-title="RADIO", AMOR SOLO POP
+https://18543.live.streamtheworld.com/ACIR03_S01AAC/HLS/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="830" tvg-logo="https://lamejor.com.mx/wp-content/themes/la-mejor-theme/dist/images/logo.png" group-title="RADIO", LA MEJOR FM CDMX
+https://26603.live.streamtheworld.com/XERCFM.mp3
+
+#EXTINF: -1 tvg-chno="831" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1280px-Los_40.svg.png" group-title="RADIO", LOS 40 FM CDMX
+https://18363.live.streamtheworld.com/LOS40_MEXICOAAC.aac
+
+
+🌲🌱NATURALEZA☘️🌴
+
+#EXTINF: -1 tvg-chno="840" tvg-logo="https://yt3.googleusercontent.com/bC9HC5Esmlp6_k0ZqrVyj-wNek5qnMYx-XX0RlWDYSwuS8bA70Evtfg79EA_C6uVTB4JlPW7=s900-c-k-c0x00ffffff-no-rj" group-title="NATURALEZA", WILD EARTH
+https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
+
+#EXTINF: -1 tvg-chno="841" tvg-logo="https://image.roku.com/developer_channels/prod/c155308e39695c107020d7412ad9da46d4dd5f0e603c1d44a0c0c15a71d4061c.png" group-title="NATURALEZA", DEMAND AFRICA
+https://demandafrica-oando.amagi.tv/playlistR1080p.m3u8
+
+
+ARGENTINA⚽
+
+#EXTINF: -1 tvg-chno="860" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="ARGENTINA", CINE ARG
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1171844143.m3u8
+
+😂ANIME🥰
+
+#EXTINF: -1 tvg-chno="865" tvg-logo="https://cdn.uc.assets.prezly.com/d912952e-742b-4e87-a382-90a935842806/" group-title="ANIME",  ANIME ONEGAI
+https://live.animeonegai.com/desktop94pq6o1cvu57ep6/076456b0e6f138491ee36b3abe0743fa.sdp/playlist.m3u8
+
+❤️A LA CARTA❤️
+
+
+#EXTINF:-1 tvg-chno="900" group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png", FAHION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+
+#EXTINF:-1 tvg-chno="901" group-title="A LA CARTA" tvg-logo="https://image.roku.com/channels/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg", MIAMI TV
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+
+#EXTINF:-1 tvg-chno="902" group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/2560px-Play_Boy_TV_logo.svg.png", PLAYBOY TV
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PLAYBOYHD)/index.m3u8
+
+#EXTINF:-1 tvg-chno="903" group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png", VENUS
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(VENUS)/index.m3u8
