@@ -1,0 +1,32 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0ZZ2hw/venus.png" tvg-group="XXX", VENUS #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/venus.json https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" tvg-group="XXX", PLAYBOY #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/playboy.json https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd  
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chyp5Vc/sextreme.png" tvg-group="XXX", SEXTREME #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/sextreme.json https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" tvg-group="DEPORTES", TYC SPORTS #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN PREMIUM AR #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/espnpremium.json https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3p33HGF/americatvar.png" tvg-group="ARGENTINA", AMERICA TV #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPvjs19/pakapaka.png" tvg-group="INFANTILES", PAKA PAKA #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/paka.json https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="MUSICA", HTV #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/htv.json https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/" #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json #EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" tvg-group="DEPORTES", TYC SPORTS https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" tvg-group="DEPORTES", TNT SPORTS AR #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_Sports_HD.json https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0XxZh0x/natgeokids.png" tvg-group="INFANTILES", NATGEO KIDS #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/natkids.json https://dtvott-cbc.akamaized.net/dash_live_1167/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1QjLQ5L/Az-clic.png" tvg-group="CINE Y SERIES", AZCLIC #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414" https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=165
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsRYG35/azcorazon.png" tvg-group="CINE Y SERIES", AZCORAZON #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys4/AZCORAZON_HD.json #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://latamvosliveclarovideo.akamaized.net/" #KODIPROP:inputstream.adaptive.stream_headers=Accept="*/*" #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36" https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=AZCORAZON_HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVKT7RP/clarosp.jpg" tvg-group="DEPORTES", CLARO SPORTS #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys4/CLARO_SPORTS_LATAM_HD.json #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://latamvosliveclarovideo.akamaized.net/" #KODIPROP:inputstream.adaptive.stream_headers=Accept="*/*" #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36" https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=CLARO_SPORTS_LATAM_HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8r5CncS/disneyxd.png" tvg-group="INFANTILES", DISNEY XD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/disneyxd.json https://dtvott-abc.akamaized.net/dash_live_1088/manifest.mpd
+
