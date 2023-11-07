@@ -635,8 +635,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://latamvosliveclarovideo.akamaized.net/" 
 #KODIPROP:inputstream.adaptive.stream_headers=Aceptar="*/*" 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/114.0.21452.134 Safari/537.36"
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(PASIONES_HD)/manifest.mpd
-
+https://canales123.futbolenvivo.xyz/streams5/manifest.mpd?id=PASIONES_HD
 
 #EXTINF: -1 tvg-chno="280" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1083007-8c.png" group-title="NOVELAS", CORAZON
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
