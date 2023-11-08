@@ -18,4 +18,4 @@ https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=AZCORAZON_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/114.0.21452.134 Safari/537.36 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="NOVELAS", CORAZÓN 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=AZCORAZON_HD
+https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=AZCORAZON_HD
