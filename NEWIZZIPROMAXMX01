@@ -2808,7 +2808,7 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 http://station.radionanet.com:6156/
 
 #EXTINF: -1 tvg-chno="826" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" group-title="RADIO", RADIO DISNEY
-https://22823.live.streamtheworld.com/XHFOFMAAC/HLS/playlist.m3u8
+https://18153.live.streamtheworld.com/XHFOFMAAC/HLS/playlist.m3u8
 
 #EXTINF: -1 tvg-chno="827" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988" group-title="RADIO", AMOR FM CDMX
 https://27223.live.streamtheworld.com/XHSHFMAAC/HLS/playlist.m3u8
