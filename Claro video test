@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsRYG35/azcorazon.png" tvg-group="CINE Y SERIES", AZCORAZON1 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys4/AZCORAZON_HD.json #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://latamvosliveclarovideo.akamaized.net/" #KODIPROP:inputstream.adaptive.stream_headers=Aceptar="*/*" #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/114.0.21452.134 Safari/537.36" https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=AZCORAZON_HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsRYG35/azcorazon.png" tvg-group="CINE Y SERIES", AZCORAZON2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys4/AZCORAZON_HD.json 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://latamvosliveclarovideo.akamaized.net/" 
+#KODIPROP:inputstream.adaptive.stream_headers=Aceptar="*/*" 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/114.0.21452.134 Safari/537.36" 
+https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=AZCORAZON_HD
+  
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys4/AZCORAZON_HD.json 
+#EXTVLCOPT:http-referrer=https://latamvosliveclarovideo.akamaized.net/  
+#EXTVLCOPT:network-caching= 1000 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/114.0.21452.134 Safari/537.36 
+#EXTINF:-1 tvg-id="101" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="NOVELAS", CORAZÓN 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#https://channels123.futbolenvivo.xyz/streams5/manifest.mpd?id=AZCORAZON_HD
