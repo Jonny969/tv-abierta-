@@ -1,4 +1,6 @@
-#EXTM3U #EXTINF:0 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="Lista 20", BLACKGHOST 20 http://bgtv.site/TV&file=|user-agent=MUNDOCOL 
+#EXTM3U 
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="Lista 20", BLACKGHOST 20 http://bgtv.site/TV&file=|user-agent=MUNDOCOL 
 #EXTINF:0 tvg-logo="http://i.imgur.com/3akxcS6.png" group-title="Lista 20", http://paypal.me/blackghost http://bgtv.site/TV&file=|user-agent=MUNDOCOL a 
 #EXTINF:-1 group-title="Lista 20", A Mas HD (p) https://bgtv.site/play/play-110.php?token=asdfasdfasdf&20=19653.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
 #EXTINF:-1 group-title="Lista 20", A Mas SD (i) https://bgtv.site/play/play-110.php?token=asdfasdfasdf&20=37800.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
