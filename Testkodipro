@@ -2866,13 +2866,13 @@ https://live.animeonegai.com/desktop94pq6o1cvu57ep6/076456b0e6f138491ee36b3abe07
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-chno="904" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/2560px-Play_Boy_TV_logo.svg.png" group-title="A LA CARTA', PLAYBOYTV 2
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PLAYBOYHD)/index.m3u8
+https://bit.ly/3QRUIr5
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF:-1 tvg-chno="905" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" tvg-group="A LA CARTA", VENUS 2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(VENUS)/index.m3u8
+https://bit.ly/3QRUIr5
 
 
 #EXTINF:-1 tvg-chno="900" group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png", FAHION TV
