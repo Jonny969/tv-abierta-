@@ -1483,15 +1483,11 @@ https://dxmwlv9y37d4r.cloudfront.net/CINEMEXICANO/master.m3u8
 #EXTINF:-1 tvg-chno="501" group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/1299_panico-hd.png", PANICO
 https://dxmwlv9y37d4r.cloudfront.net/PANICO_HD/master.m3u8
 
-
 #EXTINF:-1 tvg-chno="502" group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/1434_cinema-platino-hd.png", CINEMA PLATINO
 https://dxmwlv9y37d4r.cloudfront.net/PLATINO_HD/master.m3u8
 
-
-
 #EXTINF:-1 tvg-chno="503" group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", CINEMA PLATINO 2
 https://dxmwlv9y37d4r.cloudfront.net/PLATINO2/master.m3u8
-
 
 #EXTINF:-1 tvg-chno="504" group-title="PELICULAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1016572-8c.png", DHE
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DHEHD)/index.m3u8
@@ -1597,9 +1593,8 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 tvg-chno="527" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png", ESPN4
+#EXTINF:-1 tvg-chno="527" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png", ESPN 4
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN4HD)/index.m3u8
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1692,13 +1687,11 @@ https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 tvg-chno="558" group-title="DEPORTES" tvg-logo="https://www.megacable.com.mx/images/canales/673_tvc-deportes.png", TVC DEPORTES 
+#EXTINF:-1 tvg-chno="558" group-title="DEPORTES" tvg-logo="https://www.megacable.com.mx/images/canales/673_tvc-deportes.png", TVC DEPORTES
 https://dxmwlv9y37d4r.cloudfront.net/TVCDEP_HD/master.m3u8
-
 
 #EXTINF:-1 tvg-chno="563" group-title="DEPORTES" tvg-logo="https://www.megacable.com.mx/images/canales/673_tvc-deportes.png", TVC DEPORTES 2
 https://dxmwlv9y37d4r.cloudfront.net/TVCDEP2/master.m3u8
-
 
 #EXTINF: -1 tvg-chno="576" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", SKY SPORTS
 https://bit.ly/3LOW2YE
@@ -1716,10 +1709,6 @@ https://live2-ott.izzigo.tv/out/u/dash/NBA-HD/default.mpd
 
 #EXTINF:-1 tvg-chno="598" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
-
-#EXTINF:-1 tvg-chno="599" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425265-8c.png", TRAVELXP
-http://177.53.153.21:8001/play/a02m/index.m3u8
-
 
 
 📰NOTICIAS📡📺
@@ -1876,7 +1865,7 @@ https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 tvg-chno="647" group-title="NIÑOS" tvg-logo="https://www.megacable.com.mx/images/canales/1560_meganoticias-mx-hd_imagen_1638377401.png", MEGANOTICIAS MX
+#EXTINF:-1 tvg-chno="647" group-title="NOTICIAS" tvg-logo="https://www.megacable.com.mx/images/canales/1560_meganoticias-mx-hd_imagen_1638377401.png",MEGANOTICIAS MX
 https://dxmwlv9y37d4r.cloudfront.net/MN_MX_HD/master.m3u8
 
 #EXTINF:-1 tvg-chno="649" group-title="NOTICIAS" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png?fit=1920%2C1080&ssl=1", CANAL 4 GUADALAJARA
@@ -2175,7 +2164,7 @@ https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF: -1 tvg-chno="740" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png" group-title="MUSICA", EXA TV
+#EXTINF:-1 tvg-chno="740" group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png",EXA TV
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EXATV)/index.m3u8
 
 #EXTINF:-1 tvg-chno="742" group-title="MUSICA" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest?cb=20150406181433&path-prefix=es", CONCERT CHANNEL
@@ -2183,7 +2172,6 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CON
 
 #EXTINF:-1 tvg-chno="743" group-title="MUSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNO6kmCnxwwP8KO6AmMNjkDK86QcSKlRNO3w&usqp=CAU", CLARO MUSICA
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CLAROMUSICA)/index.m3u8
-
 
 #EXTINF: -1 tvg-chno="744" tvg-logo="https://www.megacable.com.mx/images/canales/704_video-rola.png" group-title="MUSICA", VIDEO ROLA
 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
@@ -2193,9 +2181,6 @@ https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8
 
 #EXTINF: -1 tvg-chno="746" tvg-logo="https://www.megacable.com.mx/images/canales/1288_beat-box.png" group-title="MUSICA", BEAT BOX
 https://dxmwlv9y37d4r.cloudfront.net/BEATBOX/master.m3u8
-
-#EXTINF: -1 tvg-chno="747" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/266.png" group-title="MUSICA", LA MEJOR 
-https://bit.ly/48Ldkju
 
 #EXTINF: -1 tvg-chno="748" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/640px-Htv_logo.svg.png" group-title="MUSICA", H TV
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV)/index.m3u8
