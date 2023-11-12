@@ -193,6 +193,15 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV
 #EXTINF: -1 tvg-chno="749" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/styles/large/public/0523_sn_website_launch_meta-image_1200x628_v01.png?itok=ab0Ae-hA" group-title="MUSICA", STINGRAY NATURESCAPE
 https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1920x1080_5711200/index.m3u8
 
+#EXTINF:-1 tvg-chno="802" group-title="MUSICA 2.0" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQst8ofBSIU6XstErEIpKp8uVRS06ueFLEhKA&usqp=CAU", STINGRAY EASY LISTENING 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3021
+
+#EXTINF:-1 tvg-chno="803" group-title="MUSICA 2.0" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszYyxaPaNzrV4Xm4LnxzJdPvcqVurFAPVJw&usqp=CAU", STINGRAY Y2K
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3020
+
+#EXTINF:-1 tvg-chno="804" group-title="MUSICA 2.0" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe1xiTcEZXzYvbiO1sAYgaPr9vpereGPn1bg&usqp=CAU", STINGRAY NOTING BUT 90 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3028
+
 #EXTINF:-1 tvg-chno="805" group-title="MUSICA 2.0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png", STINGRAY EURO HITS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3019
 
