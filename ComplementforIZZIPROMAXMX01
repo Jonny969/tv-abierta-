@@ -69,7 +69,7 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve1/playlist.m3u8
 #EXTINF: -1 tvg-chno="296" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI6A_XcYYBzVyU21cpFFoz-4q297JfcParA&usqp=CAU" group-title="NOVELAS", KANAL DE DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF: -1 tvg-chno="296" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI6A_XcYYBzVyU21cpFFoz-4q297JfcParA&usqp=CAU" group-title="NOVELAS", AGROTENDENCIA
+#EXTINF: -1 tvg-chno="296" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrCkwY0IeYI6KDiLCv3gZ_FQ5aREGiyTWww&usqp=CAU" group-title="ENTRETENIMIENTO", AGROTENDENCIA
 http://181.78.105.146:2000/play/a08b/index.m3u8
 
 #EXTINF: -1 tvg-chno="372" tvg-logo="https://image.roku.com/developer_channels/prod/2183337cdcab5889914bf7d1c79a8d920c557fbee66710a9222f8c73f2159581.png" group-title="MUNDO Y CULTURA", PRESUMIENDO MEXICO
@@ -78,7 +78,7 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist
 #EXTINF: -1 tvg-chno="399" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="RELIGION", NUEVO TIEMPO
 https://stream.live.novotempo.com:443/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 
-#EXTINF: -1 tvg-chno="487" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052922-8c.png" group-title="ENTRETENIMIENTO", ARTS
+#EXTINF: -1 tvg-chno="487" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/322.png" group-title="ENTRETENIMIENTO", ARTS
 http://181.78.105.146:2000/play/a04j/index.m3u8
 
 #EXTINF: -1 tvg-chno="489" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052922-8c.png" group-title="ENTRETENIMIENTO", CORTOS
@@ -307,7 +307,7 @@ https://demandafrica-oando.amagi.tv/playlistR1080p.m3u8
 #EXTINF: -1 tvg-chno="842" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2WdhrWLOBsA9jDwv7-Sm1XXgiKIW3VOD8A&usqp=CAU" group-title="NATURALEZA", LOVE NATURE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
 
-#EXTINF: -1 tvg-chno="843" tvg-logo="https://yt3.googleusercontent.com/X7bSgjOLQ-nmOx8yWvTpSIgsU0i_2AFCVT3G6I2eDLqFnRnyzfpQcDG4wDanetD3IyYTA-Nb70Q=s900-c-k-c0x00ffffff-no-rj" group-title="NATURALEZA", MEXICO TRAVEL CHANNEL
+#EXTINF: -1 tvg-chno="843" tvg-logo="https://yt3.googleusercontent.com/X7bSgjOLQ-nmOx8yWvTpSIgsU0i_2AFCVT3G6I2eDLqFnRnyzfpQcDG4wDanetD3IyYTA-Nb70Q=s900-c-k-c0x00ffffff-no-rj" group-title="NATURALEZA", NATURE TIME
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIzIDI6MjE6NDUgUE0maGFzaF92YWx1ZT1qcnl0M21Jc1VhWEliRkdTWno2NHl3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF: -1 tvg-chno="860" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="ARGENTINA", CINE ARG
