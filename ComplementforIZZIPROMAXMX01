@@ -307,8 +307,8 @@ https://demandafrica-oando.amagi.tv/playlistR1080p.m3u8
 #EXTINF: -1 tvg-chno="842" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2WdhrWLOBsA9jDwv7-Sm1XXgiKIW3VOD8A&usqp=CAU" group-title="NATURALEZA", LOVE NATURE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
 
-#EXTINF: -1 tvg-chno="843" tvg-logo="https://yt3.googleusercontent.com/X7bSgjOLQ-nmOx8yWvTpSIgsU0i_2AFCVT3G6I2eDLqFnRnyzfpQcDG4wDanetD3IyYTA-Nb70Q=s900-c-k-c0x00ffffff-no-rj" group-title="NATURALEZA", NATURE TIME
-https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIzIDI6MjE6NDUgUE0maGFzaF92YWx1ZT1qcnl0M21Jc1VhWEliRkdTWno2NHl3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+#EXTINF: -1 tvg-chno="843" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="NATURALEZA", NATURE TIME
+https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist.m3u8mFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF: -1 tvg-chno="860" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="ARGENTINA", CINE ARG
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1171844143.m3u8
