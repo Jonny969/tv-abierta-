@@ -2813,7 +2813,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
 #EXTINF:-1 tvg-chno="823" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png", STINGRAY QUELLO
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 
 #EXTINF:-1 tvg-chno="824" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425475-8c.png", STINGRAY DJAZZ
 https://watchtv-raw.ott-channels.stingray.com/djazz/index.m3u8
