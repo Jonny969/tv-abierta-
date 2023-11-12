@@ -645,6 +645,15 @@ http://177.53.153.21:8001/play/a03h/index.m3u8
 #EXTINF:-1 tvg-chno="292" group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082989-8c.png", CLIC 
 http://167.250.222.35:16000/play/a04j/index.m3u8
 
+#EXTINF: -1 tvg-chno="295" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4zL7ZSkeV8qnoxX4cDJa5TSNhqNx5y5prQ&usqp=CAU" group-title="NOVELAS", AMERICA TEVEO
+https://tgn2.bozztv.com/americateve/americateve1/americateve1/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="296" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI6A_XcYYBzVyU21cpFFoz-4q297JfcParA&usqp=CAU" group-title="NOVELAS", KANAL DE DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="296" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI6A_XcYYBzVyU21cpFFoz-4q297JfcParA&usqp=CAU" group-title="NOVELAS", AGROTENDENCIA
+http://181.78.105.146:2000/play/a08b/index.m3u8
+
 
 NIÑOS🧒
 
