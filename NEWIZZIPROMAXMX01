@@ -514,6 +514,9 @@ https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd
 #EXTINF: -1 tvg-chno="222" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486321-8c.png" group-title="ENTRETENIMIENTO", MY ZEN TV
 https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
 
+#EXTINF: -1 tvg-chno="224" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527073-8c.png" group-title="ENTRETENIMIENTO", MUSEUM TV
+https://live2.creacast.com/museum-france/museum-france.smil/.m3u8
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=gghgjghhj
@@ -1710,6 +1713,8 @@ https://live2-ott.izzigo.tv/out/u/dash/NBA-HD/default.mpd
 #EXTINF:-1 tvg-chno="598" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
 
+#EXTINF:-1 tvg-chno="599" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1094353-8c.png", GARAJE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 📰NOTICIAS📡📺
 
