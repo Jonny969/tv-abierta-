@@ -1399,6 +1399,8 @@ http://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
+#EXTINF: -1 tvg-chno="487" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052922-8c.png" group-title="ENTRETENIMIENTO", ARTS
+http://181.78.105.146:2000/play/a04j/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1718,6 +1720,9 @@ https://bit.ly/3LOW2YE
 https://live2-ott.izzigo.tv/out/u/dash/NBA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 tvg-chno="595" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604408-8c.png", AYM SPORTS 
+http://23.148.145.82:25461/live/ligatv/Y0coPe0SzF/248.m3u8
 
 #EXTINF:-1 tvg-chno="598" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
