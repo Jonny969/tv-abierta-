@@ -193,6 +193,21 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV
 #EXTINF: -1 tvg-chno="749" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/styles/large/public/0523_sn_website_launch_meta-image_1200x628_v01.png?itok=ab0Ae-hA" group-title="MUSICA", STINGRAY NATURESCAPE
 https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1920x1080_5711200/index.m3u8
 
+#EXTINF:-1 tvg-chno="805" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY EURO HITS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3019
+
+#EXTINF:-1 tvg-chno="806" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY SMOOTH JAZZ 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3022
+
+#EXTINF:-1 tvg-chno="807" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY HIP HOP/R&B
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3024
+
+#EXTINF:-1 tvg-chno="808" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY TODAY'S K-POP 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3018
+
+#EXTINF:-1 tvg-chno="809" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY SOUL STROM
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1950
+
 #EXTINF:-1 tvg-chno="810" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY ROCK CLÁSICO
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
 
