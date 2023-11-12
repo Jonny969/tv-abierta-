@@ -193,25 +193,25 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV
 #EXTINF: -1 tvg-chno="749" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/styles/large/public/0523_sn_website_launch_meta-image_1200x628_v01.png?itok=ab0Ae-hA" group-title="MUSICA", STINGRAY NATURESCAPE
 https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1920x1080_5711200/index.m3u8
 
-#EXTINF:-1 tvg-chno="805" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY EURO HITS
+#EXTINF:-1 tvg-chno="805" group-title="MUSICA 2.0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png", STINGRAY EURO HITS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3019
 
-#EXTINF:-1 tvg-chno="806" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY SMOOTH JAZZ 
+#EXTINF:-1 tvg-chno="806" group-title="MUSICA 2.0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png", STINGRAY SMOOTH JAZZ 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3022
 
-#EXTINF:-1 tvg-chno="807" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY HIP HOP/R&B
+#EXTINF:-1 tvg-chno="807" group-title="MUSICA 2.0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png", STINGRAY HIP HOP/R&B
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3024
 
-#EXTINF:-1 tvg-chno="808" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY TODAY'S K-POP 
+#EXTINF:-1 tvg-chno="808" group-title="MUSICA 2.0" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSNEkcMOib_7jr5bUDDatR-jXlZ_9YlgP2mA&usqp=CAU", STINGRAY TODAY'S K-POP 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3018
 
-#EXTINF:-1 tvg-chno="809" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY SOUL STROM
+#EXTINF:-1 tvg-chno="809" group-title="MUSICA 2.0" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkSHT-GscdTRucDCCkVgSPTgQjhTfw7hW5JA&usqp=CAU", STINGRAY SOUL STROM
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1950
 
-#EXTINF:-1 tvg-chno="810" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY ROCK CLÁSICO
+#EXTINF:-1 tvg-chno="810" group-title="MUSICA 2.0" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS11tPRTjzm6XVc8LRsCmx_tAEUspeOi337uQ&usqp=CAU", STINGRAY ROCK CLÁSICO
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
 
-#EXTINF:-1 tvg-chno="811" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485193-8c.png", STINGRAY FLASHBACK 70S
+#EXTINF:-1 tvg-chno="811" group-title="MUSICA 2.0" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vKBOEcPH8p8qVGX1-cUiLr2uNJdF0TRUSQ&usqp=CAU", STINGRAY FLASHBACK 70S
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
 
 #EXTINF:-1 tvg-chno="812" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY GRANDES EXITOS 
