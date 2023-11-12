@@ -2784,36 +2784,58 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 #EXTINF:-1 tvg-chno="819" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY TODO LOS 80S
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
 
+#EXTINF:-1 tvg-chno="820" group-title="MUSICA 2.0" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLhaJJY444mnHL6FwgHIO2WAcY-bnWEDKmJQ&usqp=CAU", STINGRAY SPA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3027
 
+#EXTINF:-1 tvg-chno="821" group-title="MUSICA 2.0" tvg-logo="https://strapialteox.s3.us-west-002.backblazeb2.com/uploads/Stingray_Karaoke_Hor_RGB_4fd45efb31.png", STINGRAY KARAOKE ESPAÑOL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
+
+#EXTINF:-1 tvg-chno="822" group-title="MUSICA 2.0" tvg-logo="https://strapialteox.s3.us-west-002.backblazeb2.com/uploads/Stingray_Karaoke_Hor_RGB_4fd45efb31.png", STINGRAY KARAOKE INGLES
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+
+#EXTINF:-1 tvg-chno="823" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png", STINGRAY QUELLO
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+
+#EXTINF:-1 tvg-chno="824" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425475-8c.png", STINGRAY DJAZZ
+https://watchtv-raw.ott-channels.stingray.com/djazz/index.m3u8
+
+#EXTINF:-1 tvg-chno="825" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425473-8c.png", STINGRAY CMUSIC
+https://watchtv-raw.ott-channels.stingray.com/cmusic/index.m3u8
+
+#EXTINF:-1 tvg-chno="826" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425477-8c.png", STINGRAY CLASSICA
+https://watchtv-raw.ott-channels.stingray.com/classica01/index.m3u8
+
+#EXTINF:-1 tvg-chno="827" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", STINGRAY NATURESCAPE 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
 
 📻RADIO📻
 
 
-#EXTINF: -1 tvg-chno="825" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vjx2vy3jvs9e.png" group-title="RADIO", RADIO OMEGA
+#EXTINF: -1 tvg-chno="830" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vjx2vy3jvs9e.png" group-title="RADIO", RADIO OMEGA
 http://station.radionanet.com:6156/
 
-#EXTINF: -1 tvg-chno="826" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" group-title="RADIO", RADIO DISNEY
+#EXTINF: -1 tvg-chno="831" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" group-title="RADIO", RADIO DISNEY
 https://18153.live.streamtheworld.com/XHFOFMAAC/HLS/playlist.m3u8
 
-#EXTINF: -1 tvg-chno="827" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988" group-title="RADIO", AMOR FM CDMX
+#EXTINF: -1 tvg-chno="832" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988" group-title="RADIO", AMOR FM CDMX
 https://27223.live.streamtheworld.com/XHSHFMAAC/HLS/playlist.m3u8
 
-#EXTINF: -1 tvg-chno="828" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa" group-title="RADIO", MATCH FM CDMX
+#EXTINF: -1 tvg-chno="833" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa" group-title="RADIO", MATCH FM CDMX
 https://23103.live.streamtheworld.com/XHPOPFMAAC/HLS/playlist.m3u8
 
-#EXTINF: -1 tvg-chno="829" tvg-logo="https://radionotas.com/wp-content/uploads/2019/10/KE-BUENA-953.png" group-title="RADIO", LA QUE BUENA
+#EXTINF: -1 tvg-chno="834" tvg-logo="https://radionotas.com/wp-content/uploads/2019/10/KE-BUENA-953.png" group-title="RADIO", LA QUE BUENA
 https://26733.live.streamtheworld.com/KEBUENAAAC.aac
 
-#EXTINF: -1 tvg-chno="830" tvg-logo="https://lamejor.com.mx/wp-content/themes/la-mejor-theme/dist/images/logo.png" group-title="RADIO", LA MEJOR FM CDMX
+#EXTINF: -1 tvg-chno="835" tvg-logo="https://lamejor.com.mx/wp-content/themes/la-mejor-theme/dist/images/logo.png" group-title="RADIO", LA MEJOR FM CDMX
 https://26193.live.streamtheworld.com/XERCFMAAC_SC
 
-#EXTINF: -1 tvg-chno="831" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1280px-Los_40.svg.png" group-title="RADIO", LOS 40 FM CDMX
+#EXTINF: -1 tvg-chno="836" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1280px-Los_40.svg.png" group-title="RADIO", LOS 40 FM CDMX
 https://18363.live.streamtheworld.com/LOS40_MEXICOAAC.aac
 
-#EXTINF: -1 tvg-chno="832" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf8wce_o2McDDIec95HejRA4tXrd8MTYYJOA&usqp=CAU" group-title="RADIO", LA Z
+#EXTINF: -1 tvg-chno="837" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf8wce_o2McDDIec95HejRA4tXrd8MTYYJOA&usqp=CAU" group-title="RADIO", LA Z
 https://26373.live.streamtheworld.com/XEQR_FMAAC.aac
 
-#EXTINF: -1 tvg-chno="833" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXgqXxhx8ce8Jac7QvTiVudfl3GClTNqVBg&usqp=CAU" group-title="RADIO", ALFA 91.3
+#EXTINF: -1 tvg-chno="838" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXgqXxhx8ce8Jac7QvTiVudfl3GClTNqVBg&usqp=CAU" group-title="RADIO", ALFA 91.3
 https://24503.live.streamtheworld.com/XHFAJ_FMAAC.aac
 
 
