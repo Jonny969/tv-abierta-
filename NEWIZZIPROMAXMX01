@@ -410,7 +410,7 @@ https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF: -1 tvg-chno="206" tvg-logo="https://www.megacable.com.mx/images/canales/1144_pasiones-hd.png" group-title="NOVELAS", PASIONES
-https://bit.ly/Iptvpromxpasionesfhd
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/70.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -640,10 +640,10 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-chno="285"  group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082935-8c.png", CINEMA
-http://177.53.153.21:8001/play/a03h/index.m3u8
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/175..m3u8
 
 #EXTINF:-1 tvg-chno="292" group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082989-8c.png", CLIC 
-http://167.250.222.35:16000/play/a04j/index.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 
 #EXTINF: -1 tvg-chno="295" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4zL7ZSkeV8qnoxX4cDJa5TSNhqNx5y5prQ&usqp=CAU" group-title="NOVELAS", AMERICA TEVEO
 https://tgn2.bozztv.com/americateve/americateve1/americateve1/playlist.m3u8
@@ -1400,7 +1400,7 @@ http://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF: -1 tvg-chno="487" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/322.png" group-title="ENTRETENIMIENTO", ARTS
-http://181.78.105.146:2000/play/a04j/index.m3u8
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/140.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1505,6 +1505,15 @@ https://dxmwlv9y37d4r.cloudfront.net/PLATINO2/master.m3u8
 
 #EXTINF:-1 tvg-chno="504" group-title="PELICULAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1016572-8c.png", DHE
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DHEHD)/index.m3u8
+
+#EXTINF:-1 tvg-chno="505" group-title="PELICULAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHAzELF8_K8aH2hoLWd78GNTeSeH6Js1xBQ&usqp=CAU", CINEMA DINAMITA 
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4142
+
+#EXTINF:-1 tvg-chno="506" group-title="PELICULAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416643-8c.png", MORBIDO
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364
+
+#EXTINF:-1 tvg-chno="507" group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png", TBS
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/26.m3u8
 
 
 ⚽DEPORTES⚽
@@ -1724,6 +1733,9 @@ https://live2-ott.izzigo.tv/out/u/dash/NBA-HD/default.mpd
 #EXTINF:-1 tvg-chno="595" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604408-8c.png", AYM SPORTS 
 http://23.148.145.82:25461/live/ligatv/Y0coPe0SzF/248.m3u8
 
+#EXTINF:-1 tvg-chno="596" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052221-8c.png", FUEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/main.m3u8
+
 #EXTINF:-1 tvg-chno="598" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
 
@@ -1743,6 +1755,9 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/informacion.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 tvg-chno="603" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425408-8c.png", NTN24
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/41815
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1989,6 +2004,10 @@ http://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
 
 #EXTINF: -1 tvg-chno="693" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425435-8c.png" group-title="INTERNACIONAL", ARIRANG
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+
+#EXTINF: -1 tvg-chno="694" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425431-8c.png" group-title="INTERNACIONAL", CGNT EN ESPAÑOL 
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2896,6 +2915,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
 
 #EXTINF: -1 tvg-chno="843" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="NATURALEZA", NATURE TIME
 https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="845" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQXu0Lu2MhvJD2JumvMJ5pC7m9OZnvH259rQ&usqp=CAU" group-title="NATURALEZA", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 ARGENTINA⚽
