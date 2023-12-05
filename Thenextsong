@@ -13,34 +13,28 @@ https://ottbk.cdn.iutpcdn.com/bpk-tv/tp142242/clear/index.m3u8
 http://ottbk.cdn.iutpcdn.com/bpk-tv/tp123412/clear/index.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522484-8c.png , MULTIMEDIOS CDMX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png , AZTECA 7
 https://ottbk.cdn.iutpcdn.com/bpk-tv/tp12317/clear/index.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004236-8c.png", HERALDO TV
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/302677
-
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png, NU9EVE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1324/clear/index.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png, A MAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2316/PROFILE05.m3u8
+https://mdstrm.com/live-stream-gdai/60b56be1000ea50835fa1e63/linear/hls/pa/event/2tBalxaHTg-QN-GgSPzs-g/stream/a598ecff-a049-4123-9307-8cd55f769224:TUL/master.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png, ONCE  
 https://ottbk.cdn.iutpcdn.com/bpk-tv/tp142245/clear/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/09/Televisa-Veracruz-en-vivo.png", TELEVER
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1954/PROFILE05.m3u8
+https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU", CANAL 13
-https://c13mx.mediatiquestream.com/canal13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+https://dbdfj5y8nz2u4.cloudfront.net/c13chiapas/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png", CANAL 14
-https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
-
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518647-8c.png, ONCE NIÑOS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3315/PROFILE05.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
@@ -48,48 +42,41 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5-YBWJQFafGXz_cExywExr94fOkZfcW8iOQ&usqp=CAU", QUIERO TV
 https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-
-Logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/421749-8c.png, APRENDE TV 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE05.m3u8
-
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsdKAHGgo7LlTF4l4RvLOMEcoEXQkLTaTeQ&usqp=CAU, EXELCIOR TV 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425558-8c.png, TV UNAM
-https://5ca3e84a76d30.streamlock.net:443/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDE6Mzk6MTUgQU0maGFzaF92YWx1ZT1sYU9DbGNDdVUyNi9FbnRMcGNUYnV3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR
+https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png, CAPITAL 21 
-https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
+https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496852-8c.png, CANAL 22
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/525568-8c.png", MILENIO 
 http://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/TN232022.webp", TN23
-https://c13mx.mediatiquestream.com/tn23mx/e35e732a5d376e0f1e4e6cd511793139.sdp/tn23mx/tn233/chunks.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/12/Freetv8.2_thumbnail_1920x1080-1-752x423.jpg", FREE TV
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcnMRmCXf8L9UnFhkyM03k-dFDov18rp_Hug&usqp=CAU", TV MAS
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+https://5ca9af4645e15.streamlock.net:443/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI02eLbpkeJb-8fYDOV8Kkjjoe0I0nPY0sng&usqp=CAU", JUSTICIA TV
 https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1048602-8c.png", MX NUESTRO CINE 
-https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w189242141_b1428000_sleng.m3u8
+https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/965016-8c.png , MEXIQUENSE TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE05.m3u8
+https://5fe2654d6127d.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ06N3T_QpADD2INwlyHtlOrPr6TGZ6FkdYEg&usqp=CAU", AMX NOTICIAS
-https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_w1930005638.m3u8
+https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1039678-8c.png, ADN 40
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE05.m3u8
+https://mdstrm.com/live-stream-gdai/60b578b060947317de7b57ac/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/b5175fb5-a598-4a9b-81cd-8cbe010bd7ec:MRN2/master.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425505-8c.png, CONGRESO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2331/PROFILE05.m3u8    
