@@ -103,7 +103,7 @@ https://imgmt.cdn.iutpcdn.com/bpk-tv/tp1546/clear/tp1546-audio_99021_spa=98800-v
 https://imgmt.cdn.iutpcdn.com/bpk-tv/tp1448/clear/tp1448-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png", WARNER
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1152/clear/tp1152-audio_99021_spa=98800-video=4630000.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(WARNERCHANNELHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png", UNIVERSAL 
 https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1257/clear/tp1257-audio_150621_spa=150400-video=4637200.m3u8
@@ -154,100 +154,91 @@ http://190.149.66.90:16000/play/a053/index.m3u8
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MODA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416571-8c.png", !E
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1155/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1155/clear/tp1155-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425219-8c.png", USA
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1159/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1159/clear/tp1159-audio_99021_spa=98800-video=4652800.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png", TNT SERIES
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1271/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1271/clear/tp1271-audio_99021_spa=98800-video=4652800.m3u8
 
 #EXTINF:-1 group-title="COCINA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416575-8c.png", EL GOURMET 
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1574/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1574/clear/tp1574-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425221-8c.png", GARAJE TV
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1475/clear/index.m3u8
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425223-8c.png", GLITZ
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1476/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GLITZ)/index.m3u8
 
 #EXTINF:-1 group-title="COMEDIA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416579-8c.png", DISTRITO COMEDIA 
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1578/clear/index.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416581-8c.png", TBS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISTRITOCOMEDIA)/index.m3u8
 
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416583-8c.png", TELENOVELAS
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1183/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TLNOVELAS)/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928343-8c.png", AZ MUNDO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE05.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928343-8c.png", AZTECA INTERNACIONAL
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416587-8c.png", TELEMUNDO 
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1185/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1185/clear/tp1185-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="UNIVERSAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943062-8c.png", UNIVERSAL PREMIERE 
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/36360
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALPREMIERHD)/index.m3u8
 
 #EXTINF:-1 group-title="UNIVERSAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943073-8c.png", UNIVERSAL CINEMA
-http://190.149.66.90:16000/play/a056/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCINEMAHD)/index.m3u8
 
 #EXTINF:-1 group-title="UNIVERSAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943089-8c.png", UNIVERSAL COMEDY
-http://190.149.66.90:16000/play/a03x/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCOMEDYHD)/index.m3u8
 
 #EXTINF:-1 group-title="UNIVERSAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943091-8c.png", UNIVERSAL CRIME
-http://190.149.66.90:16000/play/a03w/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCRIMEHD)/index.m3u8
 
 #EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943093-8c.png", UNIVERSAL REALITY 
-http://190.149.66.90:16000/play/a03v/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALREALITYHD)/index.m3u8
 
 #EXTINF:-1 group-title=”NIÑOS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425225-8c.png, BABY TV
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp15116/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BABYTV)/index.m3u8
 
 #EXTINF:-1 group-title=”NIÑOS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png, DISCOVERY KIDS
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp13109/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYKIDSHD)/index.m3u8
 
 #EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416593-8c.png", DISNEY JR
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp12118/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISNEYJUNIORHD)/index.m3u8
 
 #EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425227-8c.png", BABY FIRTS
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp121984/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp121984/clear/tp121984-audio_99021_eng=98800-video=2609200.m3u8
 
 #EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416595-8c.png", NICK JR
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp11117/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NICKJR)/index.m3u8
 
 #EXTINF:-1 group-title=”NIÑOS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png, DISNEY CHANNEL
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp14113/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp14113/clear/tp14113-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title=”NIÑOS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515940-8c.png, NICK MUSIC
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp141708/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp141708/clear/tp141708-audio_99021_eng=98800-video=2609200.m3u8
 
 #EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425231-8c.png", NICK
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp12331/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp12331/clear/tp12331-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title=”NIÑOS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518587-8c.png, TEEN NICK
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp122147/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TEENNICKHD)/index.m3u8
 
 #EXTINF:-1 group-title=”NI” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416605-8c.png, CARTOON NETWORK
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp13112/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp13112/clear/tp13112-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/942888-8c.png", CARTOONITO 
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp15115/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp15115/clear/tp15115-audio_129821_und=129600-video=4500000.m3u8
 
 #EXTINF:-1 group-title=”NIÑOS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416611-8c.png, BITME
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp152591/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp152591/clear/tp152591-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425237-8c.png", TOONCAST
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp14108/clear/index.m3u8
-
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7WZLphc7gLSQ9-mSnwrOM1Lf9-qD5gtlTQ&s", ZOO MOO 2
-http://190.61.102.67:8000/play/a009
-
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7WZLphc7gLSQ9-mSnwrOM1Lf9-qD5gtlTQ&s", ZOO MOO
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp14108/clear/tp14108-audio_99021_eng=98800-video=2609200.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052221-8c.png", FUEL TV
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp152587/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp152587/clear/tp152587-audio_99021_und=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png", DISCOVERY THEATER
 https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1295/clear/index.m3u8
