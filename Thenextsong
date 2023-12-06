@@ -262,37 +262,28 @@ https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp132378/clear/tp132378-audio_99021_spa
 https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp112379/clear/tp112379-audio_99021_spa=98800-video=4652800.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486323-8c.png", HGTV
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp153105/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HGTVHD)/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004415-8c.png", TLC
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp152380/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp152380/clear/tp152380-audio_99021_spa=98800-video=4652800.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png", DISCOVERY 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
-
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/992395-8c.png", H&H
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1296/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYCHANNELHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522142-8c.png", LIFETIME
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1194/clear/index.m3u8
-
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425259-8c.png", CURIOSITY STREAM
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2594/PROFILE05.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1194/clear/tp1194-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425261-8c.png", DISCOVERY SCIENCE
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1298/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYSCIENCEHD)/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png?fit=960%2C540&ssl=1", WILD EARTH
 https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://images.squarespace-cdn.com/content/v1/6251c1fa9a92a842582424ef/913fbe10-de57-403e-b90c-6cd3019dacc6/Nature_Time_Logo.png", NATURE TIME
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturetimeemea-samsungspain/playlist.m3u8
-
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrUveb-jEpDK9UKAwXw_cqyoqzW9LJ_q2Rg&usqp=CAU", DOG TV
-https://playback2.akamaized.net/streams/29590904_9415369_lsiqon5w6otw0rf3x1u_1/exp=1676995788~acl=%2f*~data=hdntl~hmac=af198a928ec4a034463077ad01072a226976e677e1f5d89ed05e291df23f49ca/media/29590904_9415369_lsiqon5w6otw0rf3x1u_1@5256000p.m3u8
+https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1037039-8c.png", WOBI
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp12102/clear/tp12102-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png", EWTN
 https://cdn3.wowza.com:443/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/../y2whd0cb/2728/chunklist.m3u8
@@ -306,32 +297,29 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png", NUEVO TIEMPO
 https://stream.live.novotempo.com:443/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425271-8c.png", ESNE
-https://v-la.mybtv.net/live/1102.m3u8
-
 #EXTINF:-1 group-title="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png", HBO
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/30346
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOHD)/index.m3u8
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png", HBO 2
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37985
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBO2HD)/index.m3u8
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png", HBO SIGNATURE 
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/30349
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOSIGNATUREHD)/index.m3u8
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png", HBO FAMILY 
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/30345
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOFAMILYHD)/index.m3u8
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png", HBO PLUS
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37999
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOPLUSHD)/index.m3u8
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png", HBO MUNDI
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/30347
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOMUNDIHD)/index.m3u8
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png", HBO POP 
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/3159
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOPOPHD)/index.m3u8
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png", HBO XTREME 
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/30350
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOEXTREMEHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928310-8c.png",CINEMA
 https://ottbk.cdn.iutpcdn.com/bpk-tv/tp131787/clear/index.m3u8
