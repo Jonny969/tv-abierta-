@@ -322,25 +322,19 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBO
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOEXTREMEHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928310-8c.png",CINEMA
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp131787/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp131787/clear/tp131787-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416631-8c.png", PARAMOUNT CHANNEL
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp141726/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PARAMOUNTHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425300-8c.png", CINECANAL
-https://imgmt.cdn.iutpcdn.com/bpk-tv/tp12149/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINECANALHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425302-8c.png", TNT
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp14126/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com/bpk-tv/tp14126/clear/tp14126-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png", GOLDEN
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp13123/clear/index.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png", GOLDEN PLUS
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp13122/clear/index.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543978-8c.png", GOLDEN EDGE
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp14124/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com/bpk-tv/tp13123/clear/tp13123-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es", GOLDEN PREMIERE
 http://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
