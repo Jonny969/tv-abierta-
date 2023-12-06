@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png, AZTECA UNO
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp123644/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp112169/clear/tp112169-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png, LAS ESTRELLAS 
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp142328/clear/tp142328.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp142328/clear/tp142328-audio_99021_eng=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png, FORO TV
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp142242/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp142242/clear/tp142242-audio_150945_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png , CANAL 5
 http://ottbk.cdn.iutpcdn.com/bpk-tv/tp123412/clear/index.m3u8
@@ -16,16 +16,16 @@ http://ottbk.cdn.iutpcdn.com/bpk-tv/tp123412/clear/index.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png , AZTECA 7
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp12317/clear/index.m3u8
+https://ottbk.cdn.iutpcdn.com:443/bpk-tv/tp12317/clear/tp12317-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png, NU9EVE
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1324/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1324/clear/tp1324-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png, A MAS
 https://mdstrm.com/live-stream-gdai/60b56be1000ea50835fa1e63/linear/hls/pa/event/2tBalxaHTg-QN-GgSPzs-g/stream/a598ecff-a049-4123-9307-8cd55f769224:TUL/master.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png, ONCE  
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp142245/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp142245/clear/tp142245-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/09/Televisa-Veracruz-en-vivo.png", TELEVER
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
@@ -41,9 +41,6 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5-YBWJQFafGXz_cExywExr94fOkZfcW8iOQ&usqp=CAU", QUIERO TV
 https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
-
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsdKAHGgo7LlTF4l4RvLOMEcoEXQkLTaTeQ&usqp=CAU, EXELCIOR TV 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425558-8c.png, TV UNAM
 https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
@@ -78,65 +75,62 @@ https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/playlist.m
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1039678-8c.png, ADN 40
 https://mdstrm.com/live-stream-gdai/60b578b060947317de7b57ac/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/b5175fb5-a598-4a9b-81cd-8cbe010bd7ec:MRN2/master.m3u8
 
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425505-8c.png, CONGRESO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2331/PROFILE05.m3u8    
+#EXTINF: -1 tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Images/Generales/451.png" group-title="TV NACIONAL", CANAL DEL CONGRESO 45.1
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/chunklist_w709270233_b3003000.m3u8
 
-#EXTINF:-1 group-title=”MOSAICO” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/484379-8c.png, TOTALPLAY 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE05.m3u8
+#EXTINF: -1 tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Images/Generales/452.png" group-title="TV NACIONAL", CANAL DEL CONGRESO 45.2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/chunklist_w1792620194_b3003000.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Images/Generales/453.png" group-title="TV NACIONAL", CANAL DEL CONGRESO 45.3
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/chunklist_w483011975_b6003000.m3u8
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1126903293244997632/uT7kJs8I_400x400.png" group-title="TV NACIONAL", CANAL 10 CHIAPAS
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w1790043352.m3u8    
 
 #EXTINF:-1 group-title=”MOSAICO” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/484379-8c.png, TOTALPLAY 2
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp141973/clear/index.m3u8
-
-#EXTINF:-1 group-title=”MOSAICO” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416519-8c.png, AZTECA UNO -2 HRS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1892/PROFILE05.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp141973/clear/tp141973-audio_129821_spa=129600-video=4500000.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/487020-8c.png", LAS ESTRELLAS INTERNACIONAL 
-https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/487020-8c.png", LAS ESTRELLAS -2HRS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2264/PROFILE05.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/487020-8c.png", LAS ESTRELLAS -1HRS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2037/PROFILE05.m3u8
+https://bit.ly/Iptvpromxlasestrellasinternacional_mx
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416421-8c.png", TELEFORMULA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png", STAR CHANNEL
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1546/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com/bpk-tv/tp1546/clear/tp1546-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416543-8c.png", SONY CHANNEL
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1448/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com/bpk-tv/tp1448/clear/tp1448-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png", WARNER
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1152/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1152/clear/tp1152-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png", UNIVERSAL 
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1257/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1257/clear/tp1257-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416547-8c.png", FX
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1160/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1160/clear/tp1160-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416551-8c.png", A&E
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1462/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com/bpk-tv/tp1462/clear/tp1462-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422008-8c.png", AXN
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1164/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1164/clear/tp1164-audio_150621_spa=150400-video=4674800.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425209-8c.png", TRU TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1479/clear/tp1479-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="COMEDIA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505134-8c.png", COMEDY CENTRAL 
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp13340/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp13340/clear/tp13340-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416559-8c.png", UNICABLE
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp151499/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp151499/clear/tp151499-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="MODA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png", HOLA TV
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp121734/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp121734/clear/tp121734-audio_99021_spa=98800-video=4652800.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416561-8c.png", MAS CHIC
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp141842/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp141842/clear/tp141842-audio_90221_spa=90000-video=4630000.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486321-8c.png", MY ZEN TV
 https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
@@ -145,13 +139,13 @@ https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
 https://live2.creacast.com/museum/museum.smil/.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425217-8c.png", FOOD NETWORK
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp152145/clear/index.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp152145/clear/tp152145-audio_99021_spa=98800-video=4652800.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png", DISCOVERY ID
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2376/PROFILE05.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(INVESTIGATIONDISCOVERYHD)/index.m3u8
 
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928384-8c.png",CORAZON
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1370/clear/index.m3u8
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://www.megacable.com.mx/images/canales/1143_pasiones.png", PASIONES 
 http://190.149.66.90:16000/play/a053/index.m3u8
