@@ -25,7 +25,7 @@ https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1324/clear/tp1324-audio_150621_spa=15
 https://mdstrm.com/live-stream-gdai/60b56be1000ea50835fa1e63/linear/hls/pa/event/2tBalxaHTg-QN-GgSPzs-g/stream/a598ecff-a049-4123-9307-8cd55f769224:TUL/master.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png, ONCE  
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp142245/clear/tp142245-audio_150621_spa=150400-video=4637200.m3u8
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/5.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/09/Televisa-Veracruz-en-vivo.png", TELEVER
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
