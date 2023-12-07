@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png, AZTECA UNO
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp112169/clear/tp112169-audio_99021_spa=98800-video=4630000.m3u8
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/1.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png, LAS ESTRELLAS 
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp142328/clear/tp142328-audio_99021_eng=98800-video=4630000.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png, FORO TV
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp142242/clear/tp142242-audio_150945_spa=150400-video=4637200.m3u8
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png , CANAL 5
 http://ottbk.cdn.iutpcdn.com/bpk-tv/tp123412/clear/index.m3u8
@@ -16,7 +16,7 @@ http://ottbk.cdn.iutpcdn.com/bpk-tv/tp123412/clear/index.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png , AZTECA 7
-https://ottbk.cdn.iutpcdn.com:443/bpk-tv/tp12317/clear/tp12317-audio_150621_spa=150400-video=4637200.m3u8
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/3.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png, NU9EVE
 https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1324/clear/tp1324-audio_150621_spa=150400-video=4637200.m3u8
