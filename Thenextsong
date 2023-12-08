@@ -1,34 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png, AZTECA UNO
-https://bit.ly/Aztecaunomx
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png, LAS ESTRELLAS 
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png, IMAGEN TV
-http://23.148.145.82:25461/live/televall/R1WyjpMhlp/14.m3u8
-
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png, FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png , CANAL 5
-http://23.148.145.82:25461/live/televall/R1WyjpMhlp/9.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522484-8c.png , MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png , AZTECA 7
-http://23.148.145.82:25461/live/televall/R1WyjpMhlp/3.m3u8
-
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png, NU9EVE
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1324/clear/tp1324-audio_150621_spa=150400-video=4637200.m3u8
-
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png, A MAS
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png, ONCE  
-http://23.148.145.82:25461/live/televall/R1WyjpMhlp/5.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/09/Televisa-Veracruz-en-vivo.png", TELEVER
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
@@ -89,9 +74,6 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/chunklist_
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1126903293244997632/uT7kJs8I_400x400.png" group-title="TV NACIONAL", CANAL 10 CHIAPAS
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w1790043352.m3u8    
-
-#EXTINF:-1 group-title=”MOSAICO” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/484379-8c.png, TOTALPLAY 2
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp141973/clear/tp141973-audio_129821_spa=129600-video=4500000.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/487020-8c.png", LAS ESTRELLAS INTERNACIONAL 
 https://bit.ly/Iptvpromxlasestrellasinternacional_mx
