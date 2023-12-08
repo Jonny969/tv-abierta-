@@ -85,40 +85,22 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png", STAR CHANNEL
-https://imgmt.cdn.iutpcdn.com/bpk-tv/tp1546/clear/tp1546-audio_99021_spa=98800-video=4630000.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(STARCHANNELHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416543-8c.png", SONY CHANNEL
-https://imgmt.cdn.iutpcdn.com/bpk-tv/tp1448/clear/tp1448-audio_150621_spa=150400-video=4637200.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SONYHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png", WARNER
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(WARNERCHANNELHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png", UNIVERSAL 
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1257/clear/tp1257-audio_150621_spa=150400-video=4637200.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416547-8c.png", FX
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1160/clear/tp1160-audio_99021_spa=98800-video=4630000.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416551-8c.png", A&E
-https://imgmt.cdn.iutpcdn.com/bpk-tv/tp1462/clear/tp1462-audio_99021_spa=98800-video=4630000.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422008-8c.png", AXN
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1164/clear/tp1164-audio_150621_spa=150400-video=4674800.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425209-8c.png", TRU TV
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1479/clear/tp1479-audio_99021_spa=98800-video=4630000.m3u8
-
-#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505134-8c.png", COMEDY CENTRAL 
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp13340/clear/tp13340-audio_150621_spa=150400-video=4637200.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416559-8c.png", UNICABLE
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp151499/clear/tp151499-audio_99021_spa=98800-video=4630000.m3u8
-
-#EXTINF:-1 group-title="MODA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png", HOLA TV
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp121734/clear/tp121734-audio_99021_spa=98800-video=4652800.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416561-8c.png", MAS CHIC
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp141842/clear/tp141842-audio_90221_spa=90000-video=4630000.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AXNHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486321-8c.png", MY ZEN TV
 https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
@@ -127,7 +109,7 @@ https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
 https://live2.creacast.com/museum/museum.smil/.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425217-8c.png", FOOD NETWORK
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp152145/clear/tp152145-audio_99021_spa=98800-video=4652800.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FOODNETWORKHD)/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png", DISCOVERY ID
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(INVESTIGATIONDISCOVERYHD)/index.m3u8
@@ -135,23 +117,14 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(INV
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928384-8c.png",CORAZON
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://www.megacable.com.mx/images/canales/1143_pasiones.png", PASIONES 
-http://190.149.66.90:16000/play/a053/index.m3u8
-
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV44gKW5nHV6AWCjsxxhdZkHkzMsQSvm7cLw&usqp=CAU", SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MODA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416571-8c.png", !E
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1155/clear/tp1155-audio_99021_spa=98800-video=4630000.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425219-8c.png", USA
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1159/clear/tp1159-audio_99021_spa=98800-video=4652800.m3u8
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png", TNT SERIES
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1271/clear/tp1271-audio_99021_spa=98800-video=4652800.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTSERIESHD)/index.m3u8
 
 #EXTINF:-1 group-title="COCINA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416575-8c.png", EL GOURMET 
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1574/clear/tp1574-audio_99021_spa=98800-video=4630000.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ELGOURMETHD)/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425221-8c.png", GARAJE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -169,7 +142,7 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TLN
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416587-8c.png", TELEMUNDO 
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1185/clear/tp1185-audio_99021_spa=98800-video=4630000.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEMUNDOINTERNACIONAL)/index.m3u8
 
 #EXTINF:-1 group-title="UNIVERSAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943062-8c.png", UNIVERSAL PREMIERE 
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALPREMIERHD)/index.m3u8
@@ -195,38 +168,29 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DIS
 #EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416593-8c.png", DISNEY JR
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISNEYJUNIORHD)/index.m3u8
 
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425227-8c.png", BABY FIRTS
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp121984/clear/tp121984-audio_99021_eng=98800-video=2609200.m3u8
-
 #EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416595-8c.png", NICK JR
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NICKJR)/index.m3u8
 
 #EXTINF:-1 group-title=”NIÑOS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png, DISNEY CHANNEL
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp14113/clear/tp14113-audio_150621_spa=150400-video=4637200.m3u8
-
-#EXTINF:-1 group-title=”NIÑOS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515940-8c.png, NICK MUSIC
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp141708/clear/tp141708-audio_99021_eng=98800-video=2609200.m3u8
-
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425231-8c.png", NICK
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp12331/clear/tp12331-audio_150621_spa=150400-video=4637200.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISNEYCHANNEL)/index.m3u8
 
 #EXTINF:-1 group-title=”NIÑOS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518587-8c.png, TEEN NICK
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TEENNICKHD)/index.m3u8
 
 #EXTINF:-1 group-title=”NI” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416605-8c.png, CARTOON NETWORK
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp13112/clear/tp13112-audio_150621_spa=150400-video=4637200.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARTOONNETWORKHD)/index.m3u8
 
 #EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/942888-8c.png", CARTOONITO 
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp15115/clear/tp15115-audio_129821_und=129600-video=4500000.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARTOONITO)/index.m3u8
 
 #EXTINF:-1 group-title=”NIÑOS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416611-8c.png, BITME
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp152591/clear/tp152591-audio_99021_spa=98800-video=4630000.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BITME)/index.m3u8
 
 #EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425237-8c.png", TOONCAST
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp14108/clear/tp14108-audio_99021_eng=98800-video=2609200.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TOONCAST)/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052221-8c.png", FUEL TV
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp152587/clear/tp152587-audio_99021_und=98800-video=4630000.m3u8
+https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp152587/clear/tp15257-audio_99021_und=98800-video=4630000.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png", DISCOVERY THEATER
 https://imgmt.cdn.iutpcdn.com/bpk-tv/tp1295/clear/tp1295-audio_150621_spa=150400-video=4637200.m3u8
@@ -244,10 +208,10 @@ https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp121650/clear/tp121650-audio_99021_spa
 https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp15101/clear/tp15101-audio_100221_spa=100000-video=4630000.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425249-8c.png", ANIMAL PLANET
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp132378/clear/tp132378-audio_99021_spa=98800-video=4652800.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ANIMALPLANETHD)/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png", DISCOVERY TURBO
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp112379/clear/tp112379-audio_99021_spa=98800-video=4652800.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTURBOHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486323-8c.png", HGTV
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HGTVHD)/index.m3u8
