@@ -25,7 +25,7 @@ http://23.148.145.82:25461/live/televall/R1WyjpMhlp/3.m3u8
 https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp1324/clear/tp1324-audio_150621_spa=150400-video=4637200.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png, A MAS
-https://mdstrm.com/live-stream-gdai/60b56be1000ea50835fa1e63/linear/hls/pa/event/2tBalxaHTg-QN-GgSPzs-g/stream/a598ecff-a049-4123-9307-8cd55f769224:TUL/master.m3u8
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png, ONCE  
 http://23.148.145.82:25461/live/televall/R1WyjpMhlp/5.m3u8
@@ -76,7 +76,7 @@ https://5fe2654d6127d.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u
 https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1039678-8c.png, ADN 40
-https://mdstrm.com/live-stream-gdai/60b578b060947317de7b57ac/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/b5175fb5-a598-4a9b-81cd-8cbe010bd7ec:MRN2/master.m3u8
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Images/Generales/451.png" group-title="TV NACIONAL", CANAL DEL CONGRESO 45.1
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/chunklist_w709270233_b3003000.m3u8
