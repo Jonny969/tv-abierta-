@@ -264,9 +264,6 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBO
 #EXTINF:-1 group-title="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png", HBO XTREME 
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOEXTREMEHD)/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928310-8c.png",CINEMA
-https://imgmt.cdn.iutpcdn.com:443/bpk-tv/tp131787/clear/tp131787-audio_150621_spa=150400-video=4637200.m3u8
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416631-8c.png", PARAMOUNT CHANNEL
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PARAMOUNTHD)/index.m3u8
 
@@ -274,70 +271,40 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PAR
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINECANALHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425302-8c.png", TNT
-https://imgmt.cdn.iutpcdn.com/bpk-tv/tp14126/clear/tp14126-audio_150621_spa=150400-video=4637200.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png", GOLDEN
-https://imgmt.cdn.iutpcdn.com/bpk-tv/tp13123/clear/tp13123-audio_99021_spa=98800-video=4630000.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es", GOLDEN PREMIERE
 http://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604212-8c.png", DE PELICULA PLUS
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp13121/clear/index.m3u8
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604399-8c.png", DE PELICULA
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp15335/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DEPELICULA)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505128-8c.png", AMC
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp15328/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AMCHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425308-8c.png", SPACE
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp15129/clear/index.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486317-8c.png", A3CINE
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp153112/clear/index.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/995744-8c.png", SONY MOVIES 
-http://190.149.66.90:16000/play/a01q/index.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416643-8c.png", MORBIDO 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL470/PROFILE05.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SPACEHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png", CINEMAX
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp15158/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINEMAX)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052922-8c.png", TV CORTOS
 https://amc-cortos-1-us.plex.wurl.tv:443/6dbbaa2db12ab50781c9147553a6f01d.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425350-8c.png", STUDIO UNIVERSAL
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp15132/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(STUDIOUNIVERSAL)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425364-8c.png", EUROPA EUROPA 
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp11136/clear/index.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425366-8c.png", FILM & ARTS 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE05.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416653-8c.png", I SAT
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp11135/clear/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EUROPAEUROPAHD)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png", TCM
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp12128/clear/index.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/284_eurochannel.png", EURO CHANNEL
-http://190.149.66.90:16000/play/a02b/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TCM)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/461_multipremier.png", MULTIPREMIER 
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/204
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mUDpA4CorQ_ys1rEynE2RFLer9l3yg7OoA&usqp=CAU", SUNDANCE TV
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4101
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDM5HUbYlpOBjlxZsTHdfPGEZsmGzXDqzJQA&usqp=CAU", CINEMA DINAMITA
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4142
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MULTIPREMIER)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/159_cine-latino.png", CINE LATINO
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4136
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINELATINO)/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/458_multicinema.png", MC HD
 http://160.20.165.245:8000/play/a00a/index.m3u8
@@ -350,7 +317,6 @@ https://ottbk.cdn.iutpcdn.com/bpk-tv/tp11174/clear/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png", ESPN
 https://ottbk.cdn.iutpcdn.com/bpk-tv/tp14169/clear/index.m3u8
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png", ESPN 2
 https://ottbk.cdn.iutpcdn.com/bpk-tv/tp14168/clear/index.m3u8
 
