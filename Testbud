@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTVLCOPT:http-referrer=http://liv.budtv-ultra.com:3322 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="101" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="TV NACIONAL",ADN 40 
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30301.m3u8
+
