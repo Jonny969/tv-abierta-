@@ -366,14 +366,14 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MUC
 #EXTINF:-1 group-title=”MUSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png, TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png", EXA TV
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/272.png", EXA TV
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EXATV)/index.m3u8
-
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMjQF6Aqsq2p6J6L6EMAmgV4X664fYYMu3w&usqp=CAU", LA MEJOR FM TV
-http://190.61.102.67:31589/play/a00q/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQF5w3SDaRtceXkqLT-DBppaCTZsxrArbGg&usqp=CAU", VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_5.m3u8
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQF5w3SDaRtceXkqLT-DBppaCTZsxrArbGg&usqp=CAU", tnt series
-http://23.148.145.82:25461/live/televall/R1WyjpMhlp/8.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png", TRACE URBAN
+https://traceurban.akamaized.net/hls/live/2104850/traceurban/playlist/6/prog_index.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png", TRACE LATINA
+https://tracelatina.akamaized.net/hls/live/2104849/tracelatina/playlist.m3u8
