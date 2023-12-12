@@ -99,6 +99,12 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNI
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416547-8c.png", FX
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXHD)/index.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1080162-8c.png", TNT NOVELAS
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTNOVELAS)/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505134-8c.png", COMEDY CENTRAL
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(COMEDYCENTRALHD)/index.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422008-8c.png", AXN
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AXNHD)/index.m3u8
 
@@ -110,6 +116,9 @@ https://live2.creacast.com/museum/museum.smil/.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425217-8c.png", FOOD NETWORK
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FOODNETWORKHD)/index.m3u8
+
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416561-8c.png", MAS CHIC
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MASCHICHD)/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png", DISCOVERY ID
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(INVESTIGATIONDISCOVERYHD)/index.m3u8
@@ -309,6 +318,15 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CIN
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/458_multicinema.png", MC
 https://bit.ly/Iptvpromxmc_channel_1_cdn_mx
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1016572-8c.png", DHE
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DHEHD)/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e7aa7c01c4839bad771064e3795aa71f.png", CLARO CINEMA
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CLAROCINEMA)/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhm4AvzD3WvWqE0MpD6MhZTWVulNGw169Nw&usqp=CAU", CANAL CLARO
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CANALCLAROHD)/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425368-8c.png", GOLF
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(THEGOLFCHANNELHD)/index.m3u8
 
@@ -333,10 +351,16 @@ https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/in
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425386-8c.png", FOX SPORTS 3
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FOXSPORTS3)/index.m3u8
 
+#EXTINF:-1 group-title=”NOTICIAS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425402-8c.png, CNN INTERNACIONAL 
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CNNINTERNACIONAL)/index.m3u8
+
+#EXTINF:-1 group-title=”NOTICIAS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531193-8c.png, CNN LIVE
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CNNINTERNACIONAL)/index.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531193-8c.png", CNN
 https://ottbk.cdn.iutpcdn.com/bpk-tv/tp020197/clear/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", CNN MÉXICO 
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531193-8c.png", CNN EN ESPAÑOL 
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CNNENESPANOL)/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425392-8c.png", FOX NEWS
@@ -345,8 +369,29 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FOX
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/914921-8c.png", MEGANOTICIAS MX 
 http://190.61.102.67:31589/play/a04m/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425412-8c.png", ANTENA 3
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", BBC WORLD NEWS
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BBCWORLDNEWSHD)/index.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", TVE
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BBCWORLDNEWSHD)/index.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425412-8c.png", ANTENA 3
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ANTENA3HD)/index.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425425-8c.png", TV5 MONDE
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TV5MONDE)/index.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425443-8c.png", CARACOL
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARACOL)/index.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png", RAI ITALIA
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(RAI)/index.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425416-8c.png", DW
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DW)/index.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/907504-8c.png", NHK
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NHKHD)/index.m3u8
 
 #EXTINF:-1 group-title=”MUSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png, MTV
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVHD)/index.m3u8
