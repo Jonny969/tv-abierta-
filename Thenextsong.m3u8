@@ -13,7 +13,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png, AZTECA 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/fa00fefb-097d-43ec-b51c-5753daa2be1e:CHS/master.m3u8
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png, A MAS
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -377,6 +377,12 @@ https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/in
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425386-8c.png", FOX SPORTS 3
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FOXSPORTS3)/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.megacable.com.mx/images/canales/1352_tvc-deportes-hd.png", TVC DEPORTES 
+https://dxmwlv9y37d4r.cloudfront.net/TVCDEP_HD/master.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.megacable.com.mx/images/canales/1592_tvc-deportes-2-hd_imagen_1698078206.png", TVC DEPORTES 2
+https://dxmwlv9y37d4r.cloudfront.net/TVCDEP2/master.m3u8
 
 #EXTINF:-1 group-title=”NOTICIAS” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425402-8c.png, CNN INTERNACIONAL 
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CNNINTERNACIONAL)/index.m3u8
