@@ -500,3 +500,6 @@ https://traceurban.akamaized.net/hls/live/2104850/traceurban/playlist/6/prog_ind
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png", TRACE LATINA
 https://tracelatina.akamaized.net/hls/live/2104849/tracelatina/playlist.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQst8ofBSIU6XstErEIpKp8uVRS06ueFLEhKA&usqp=CAU", EASY LISTENG
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3021
