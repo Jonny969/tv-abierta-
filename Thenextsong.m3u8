@@ -605,3 +605,33 @@ https://26373.live.streamtheworld.com/XEQR_FMAAC.aac
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXgqXxhx8ce8Jac7QvTiVudfl3GClTNqVBg&usqp=CAU", ALFA 91.3 CDMX
 https://24503.live.streamtheworld.com/XHFAJ_FMAAC.aac
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://yt3.googleusercontent.com/bC9HC5Esmlp6_k0ZqrVyj-wNek5qnMYx-XX0RlWDYSwuS8bA70Evtfg79EA_C6uVTB4JlPW7=s900-c-k-c0x00ffffff-no-rj", WILD EARTH
+https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://image.roku.com/developer_channels/prod/c155308e39695c107020d7412ad9da46d4dd5f0e603c1d44a0c0c15a71d4061c.png", DEMAND AFRICA
+https://demandafrica-oando.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2WdhrWLOBsA9jDwv7-Sm1XXgiKIW3VOD8A&usqp=CAU", LOVE NATURE 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png", NATURE TIME
+https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQXu0Lu2MhvJD2JumvMJ5pC7m9OZnvH259rQ&usqp=CAU", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE ARG
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1171844143.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://cdn.uc.assets.prezly.com/d912952e-742b-4e87-a382-90a935842806", ANIME ONEGAI
+https://live.animeonegai.com/desktop94pq6o1cvu57ep6/076456b0e6f138491ee36b3abe0743fa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png", FASHION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/2560px-Play_Boy_TV_logo.svg.png", PLAYBOY TV
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PLAYBOYHD)/index.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png", VENUS
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(VENUS)/index.m3u8
