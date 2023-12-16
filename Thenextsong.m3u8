@@ -503,3 +503,105 @@ https://tracelatina.akamaized.net/hls/live/2104849/tracelatina/playlist.m3u8
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQst8ofBSIU6XstErEIpKp8uVRS06ueFLEhKA&usqp=CAU", EASY LISTENG
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3021
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszYyxaPaNzrV4Xm4LnxzJdPvcqVurFAPVJw&usqp=CAU", STINGRAY Y2K
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3020
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe1xiTcEZXzYvbiO1sAYgaPr9vpereGPn1bg&usqp=CAU", STINGRAY NOTING BUT 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3028
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png", STINGRAY EURO HITS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3019
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png", STINGRAY SMOOTH JAZZ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3022
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png", STINGRAY HIP HOP/R&B
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3024
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSNEkcMOib_7jr5bUDDatR-jXlZ_9YlgP2mA&usqp=CAU", STINGRAY TODAY’S K-POP
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3018
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkSHT-GscdTRucDCCkVgSPTgQjhTfw7hW5JA&usqp=CAU", STINGRAY SOUL STORM 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1950
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY ROCK CLÁSICO 
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485193-8c.png", STINGRAY FLASHBACK 70S
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY GRANDES EXITOS 
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY HIT LIST
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY HOT COUNTRY
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY ADULT POP
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY ALTERNATIVE ROCK
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY POP LATINO
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY URBANO
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY REMEMBER THE 80S
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLhaJJY444mnHL6FwgHIO2WAcY-bnWEDKmJQ&usqp=CAU", STINGRAY SPA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3027
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://strapialteox.s3.us-west-002.backblazeb2.com/uploads/Stingray_Karaoke_Hor_RGB_4fd45efb31.png", STINGRAY KARAOKE EN ESPAÑOL 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://strapialteox.s3.us-west-002.backblazeb2.com/uploads/Stingray_Karaoke_Hor_RGB_4fd45efb31.png", STINGRAY KARAOKE EN INGLÉS 
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png", STINGRAY QUELLO
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425475-8c.png", STINGRAY DJAZZ
+https://watchtv-raw.ott-channels.stingray.com/djazz/index.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425473-8c.png", STINGRAY CMUSIC
+https://watchtv-raw.ott-channels.stingray.com/cmusic/index.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425477-8c.png", STINGRAY CLÁSICA 
+https://watchtv-raw.ott-channels.stingray.com/classica01/index.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", STINGRAY NATURESCAPE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vjx2vy3jvs9e.png", RADIO OMEGA
+http://station.radionanet.com:6156/
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png", RADIO DISNEY MX
+https://18153.live.streamtheworld.com/XHFOFMAAC/HLS/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988", AMOR 95.3 CDMX
+https://27223.live.streamtheworld.com/XHSHFMAAC/HLS/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa", MATCH CDMX
+https://23103.live.streamtheworld.com/XHPOPFMAAC/HLS/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://radionotas.com/wp-content/uploads/2019/10/KE-BUENA-953.png", LA KE BUENA CDMX
+https://26733.live.streamtheworld.com/KEBUENAAAC.aac
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://lamejor.com.mx/wp-content/themes/la-mejor-theme/dist/images/logo.png", LA MEJOR FM CDMX
+https://26193.live.streamtheworld.com/XERCFMAAC_SC
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1280px-Los_40.svg.png", LOS 40 101.7 CDMX
+https://18363.live.streamtheworld.com/LOS40_MEXICOAAC.aac
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf8wce_o2McDDIec95HejRA4tXrd8MTYYJOA&usqp=CAU", LA Z CDMX
+https://26373.live.streamtheworld.com/XEQR_FMAAC.aac
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXgqXxhx8ce8Jac7QvTiVudfl3GClTNqVBg&usqp=CAU", ALFA 91.3 CDMX
+https://24503.live.streamtheworld.com/XHFAJ_FMAAC.aac
