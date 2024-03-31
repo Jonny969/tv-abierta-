@@ -1,8 +1,9 @@
 #EXTM3U8
 
-#EXTINF:-1 group-title="Lista 27 solo OTT",🇲🇽 Azteca un 7 v1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ce8f86d2f0d1638574237ada8ac2e82a:642772ebf1832f1f2fa58cb7e8fcfd05 
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+#EXTINF:-1 group-title="Lista 27 solo OTT",canal 22
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a1b5323-cc20-4041-94a1-91f8222f0bfd 
+http://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/CANAL-22-HD/default.mpd
 
 #EXTINF:-1 group-title="Lista 27 solo OTT",🇲🇽 Azteca un 7 v2
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ce8f86d2f0d1638574237ada8ac2e82a:642772ebf1832f1f2fa58cb7e8fcfd05
