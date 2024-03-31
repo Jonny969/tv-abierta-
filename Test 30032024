@@ -1,0 +1,20 @@
+#EXTM3U8
+
+#EXTINF:-1 group-title="Lista 27 solo OTT",🇲🇽 Azteca un 7 v1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ce8f86d2f0d1638574237ada8ac2e82a:642772ebf1832f1f2fa58cb7e8fcfd05 
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+
+#EXTINF:-1 group-title="Lista 27 solo OTT",🇲🇽 Azteca un 7 v2
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ce8f86d2f0d1638574237ada8ac2e82a:642772ebf1832f1f2fa58cb7e8fcfd05
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k9KHNgL/azteca7.png" tvg-group="MEXICO", azteca un 7 v3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/azteca7.json
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+
+#EXTINF:-1 group-title="Lista 27 solo OTT",🇲🇽 Azteca un 7 v4
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ZCdy6/GDLx8vpYy36Pz9BQ:zo+G0vDRY4V0I3raisLoKg 
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
