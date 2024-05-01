@@ -117,6 +117,14 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082989-8c.png", CLIC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082989-8c.png", UNICABLE
+https://linear-423.frequency.stream/dist/studio/423/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082989-8c.png", BITME
+https://linear-423.frequency.stream/dist/studio/423/hls/master/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV44gKW5nHV6AWCjsxxhdZkHkzMsQSvm7cLw&usqp=CAU", SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
@@ -213,6 +221,141 @@ https://dxmwlv9y37d4r.cloudfront.net/TVCDEP2/master.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", SKY SPORTS
 https://bit.ly/3LOW2YE
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", ADRENALINA SPORTS NETWORK
+https://linear-393.frequency.stream/dist/studio/393/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", TUDN
+https://linear-356.frequency.stream/dist/studio/356/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", TIGO SPORTS
+https://linear-556.frequency.stream/dist/studio/556/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", BEiN SPORT
+https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", TUDN 3
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", AFIZZIONADOS
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", TUDN 2
+https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", MLB
+https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES
+https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 2
+https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 3
+https://linear-440.frequency.stream/mt/studio/440/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 4
+https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 5
+https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 6
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 7
+https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 8
+https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 9
+https://linear-363.frequency.stream/mt/studio/363/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 10
+https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 11
+https://linear-365.frequency.stream/mt/studio/365/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 12
+https://linear-366.frequency.stream/mt/studio/366/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 13
+https://linear-367.frequency.stream/mt/studio/367/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 14
+https://linear-368.frequency.stream/mt/studio/368/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 15
+https://linear-369.frequency.stream/mt/studio/369/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 16
+https://linear-370.frequency.stream/mt/studio/370/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 17
+https://linear-371.frequency.stream/mt/studio/371/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 18
+https://linear-372.frequency.stream/mt/studio/372/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 19
+https://linear-373.frequency.stream/mt/studio/373/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 20
+https://linear-374.frequency.stream/mt/studio/374/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 21
+https://linear-375.frequency.stream/mt/studio/375/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 22
+https://linear-376.frequency.stream/mt/studio/376/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 23
+https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 24
+https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 25
+https://linear-379.frequency.stream/mt/studio/379/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 26
+https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 27
+https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 28
+https://linear-382.frequency.stream/mt/studio/382/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 29
+https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 30
+https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 31
+https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 32
+https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", MLB
+https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", LA LIGA 1
+https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", LA LIGA 2
+https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", LA LIGA 3
+https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", LA LIGA 4
+https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052221-8c.png", FUEL TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/main.m3u8
 
@@ -254,6 +397,9 @@ https://linear-419.frequency.stream/dist/studio/419/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title=”MÚSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522528-8c.png, TELEHIT
 https://linear-417.frequency.stream/dist/studio/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title=”MÚSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522528-8c.png, BANDAMAX
+https://linear-400.frequency.stream/dist/studio/400/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title=”MUSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png, TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
