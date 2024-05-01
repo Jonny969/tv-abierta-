@@ -241,55 +241,22 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", TVE
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BBCWORLDNEWSHD)/index.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425412-8c.png", ANTENA 3
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ANTENA3HD)/index.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425425-8c.png", TV5 MONDE
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TV5MONDE)/index.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425443-8c.png", CARACOL
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARACOL)/index.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png", RAI ITALIA
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(RAI)/index.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425416-8c.png", DW
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DW)/index.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425265-8c.png", TRAVEL XP
 https://d3861c71bb8b43e4be9c2baa3a2de6b7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_TravelXP/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/907504-8c.png", NHK
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NHKHD)/index.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518698-8c.png", TELEHIT MUSICA
+https://linear-418.frequency.stream/dist/studio/418/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title=”MUSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png, MTV
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVHD)/index.m3u8
-
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518698-8c.png", TELEHIT URBANO
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEHITMUSICA)/index.m3u8
+#EXTINF:-1 group-title=”MÚSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522528-8c.png, TELEHIT MUSICA PLUS
+https://linear-419.frequency.stream/dist/studio/419/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title=”MÚSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522528-8c.png, TELEHIT
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEHIT)/index.m3u8
-
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425471-8c.png", H TV
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV)/index.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928329-8c.png",MUCH MUSIC
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MUCHMUSIC)/index.m3u8
+https://linear-417.frequency.stream/dist/studio/417/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title=”MUSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png, TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/272.png", EXA TV
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EXATV)/index.m3u8
-
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest?cb=20150406181433&path-prefix=es", CONCERT CHANNEL 
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CONCERTCHANNELHD)/index.m3u8
-
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNO6kmCnxwwP8KO6AmMNjkDK86QcSKlRNO3w&usqp=CAU", CLARO MUSICA
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CLAROMUSICA)/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.megacable.com.mx/images/canales/956_video-rola-hd.png", VIDEOROLA
 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
@@ -299,9 +266,6 @@ https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/1288_beat-box.png",BEAT BOX
 https://dxmwlv9y37d4r.cloudfront.net/BEATBOX/master.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928329-8c.png",MUCH MUSIC
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MUCHMUSIC)/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png", TRACE URBAN
 https://traceurban.akamaized.net/hls/live/2104850/traceurban/playlist/6/prog_index.m3u8
@@ -375,15 +339,6 @@ https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png", STINGRAY QUELLO
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 
-#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425475-8c.png", STINGRAY DJAZZ
-https://watchtv-raw.ott-channels.stingray.com/djazz/index.m3u8
-
-#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425473-8c.png", STINGRAY CMUSIC
-https://watchtv-raw.ott-channels.stingray.com/cmusic/index.m3u8
-
-#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425477-8c.png", STINGRAY CLÁSICA 
-https://watchtv-raw.ott-channels.stingray.com/classica01/index.m3u8
-
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", STINGRAY NATURESCAPE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
 
@@ -426,9 +381,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2WdhrWLOBsA9jDwv7-Sm1XXgiKIW3VOD8A&usqp=CAU", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png", NATURE TIME
-https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist.m3u8
-
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQXu0Lu2MhvJD2JumvMJ5pC7m9OZnvH259rQ&usqp=CAU", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
@@ -440,9 +392,3 @@ https://live.animeonegai.com/desktop94pq6o1cvu57ep6/076456b0e6f138491ee36b3abe07
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png", FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/2560px-Play_Boy_TV_logo.svg.png", PLAYBOY TV
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PLAYBOYHD)/index.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png", VENUS
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(VENUS)/index.m3u8
