@@ -9,3 +9,13 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3443518a438f72c299ecedd7a8a2ad28:edef8ba979d64acea3c827dcd51d21ed 
 https://dish.akamaized.net/Content/DASH/Live/channel(13c8fed2-46b8-3bfb-90ae-34f938ae4b98)/variant.mpd
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN_Extra_new.png" ,EXA TV 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key3443518a438f72c299ecedd7a8a2ad28:edef8ba979d64acea3c827dcd51d21ed 
+https://dish.akamaized.net/Content/DASH/Live/channel(13c8fed2-46b8-3bfb-90ae-34f938ae4b98)/variant.mpd
