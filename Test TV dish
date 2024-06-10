@@ -27,3 +27,8 @@ https://dish.akamaized.net/Content/DASH/Live/channel(13c8fed2-46b8-3bfb-90ae-34f
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3443518a438f72c299ecedd7a8a2ad28:13c8fed246b83bfb90ae34f938ae4b98:edef8ba979d64acea3c827dcd51d21ed
 https://dish.akamaized.net/Content/DASH/Live/channel(13c8fed2-46b8-3bfb-90ae-34f938ae4b98)/variant.mpd 
+
+#EXTINF:-1 group-title="Lista 27 solo OTT" , exa tv 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:3443518a438f72c299ecedd7a8a2ad28
+https://dish.akamaized.net/Content/DASH/Live/channel(13c8fed2-46b8-3bfb-90ae-34f938ae4b98)/variant.mpd 
