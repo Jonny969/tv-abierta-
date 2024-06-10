@@ -9,15 +9,6 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png, FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png, FORO TV OPCION 2
-https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png, CANAL 5
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png, CANAL 5 OPCION 2
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522484-8c.png , MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
@@ -29,9 +20,6 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png, NUEVE 
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-
-#EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png, NUEVE OPCION 2
-https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/09/Televisa-Veracruz-en-vivo.png", TELEVER
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
