@@ -40,7 +40,7 @@ https://stream.oursnetworktv.com/latin/encoder12/chunklist_w2061701237.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png, CAPITAL 21 
-https://video.cdmx.gob.mx/debatechilango/stream.m3u8
+https://video.cdmx.gob.mx/redes/stream.m3u8
 
 #EXTINF:-1 group-title=”TV ABIERTA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496852-8c.png, CANAL 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8
@@ -84,20 +84,11 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w1790043352.
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416532-8c.png", AZTECA UNO -1HRS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/487020-8c.png", LAS ESTRELLAS INTERNACIONAL 
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/487020-8c.png", LAS ESTRELLAS -1HRS
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/487020-8c.png", LAS ESTRELLAS -2HRS
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486321-8c.png", MY ZEN TV
 https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527073-8c.png", MUSEUM TV
-https://live2.creacast.com/museum/museum.smil/.m3u8
+https://live2.creacast.com/museum-france/museum-france.smil/.m3u8
 
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928384-8c.png",CORAZON
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -105,28 +96,14 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082989-8c.png", CLIC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082989-8c.png", UNICABLE
-https://linear-423.frequency.stream/dist/studio/423/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082989-8c.png", BITME
-https://linear-423.frequency.stream/dist/studio/423/hls/master/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV44gKW5nHV6AWCjsxxhdZkHkzMsQSvm7cLw&usqp=CAU", SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416579-8c.png", DISTRITO COMEDIA 
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416583-8c.png", TLNOVELAS
-https://linear-421.frequency.stream/dist/studio/421/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928343-8c.png", AZTECA INTERNACIONAL
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4zL7ZSkeV8qnoxX4cDJa5TSNhqNx5y5prQ&usqp=CAU"", AMERICA TEVEO
-https://tgn2.bozztv.com/americateve/americateve1/americateve1/playlist.m3u8
+https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI6A_XcYYBzVyU21cpFFoz-4q297JfcParA&usqp=CAU", KANAL DE DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -135,13 +112,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://images.squarespace-cdn.com/content/v1/6251c1fa9a92a842582424ef/913fbe10-de57-403e-b90c-6cd3019dacc6/Nature_Time_Logo.png", NATURE TIME
-https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://image.roku.com/developer_channels/prod/2183337cdcab5889914bf7d1c79a8d920c557fbee66710a9222f8c73f2159581.png", PRESUMIENDO MEXICO TV
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist_w544166504_b1428000_sleng.m3u8
 
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png", EWTN
-https://cdn3.wowza.com:443/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/../y2whd0cb/2728/chunklist.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png", MARIAVISION
 https://1601580044.rsc.cdn77.org:443/live/_jcn_/Mariavision/chunklist.m3u8
@@ -155,12 +132,6 @@ https://daystarespanol.akamaized.net/web/v2a5w28m3/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png", NUEVO TIEMPO
 https://stream.live.novotempo.com:443/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es", GOLDEN PREMIERE
-http://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052922-8c.png", TV CORTOS
-https://amc-cortos-1-us.plex.wurl.tv:443/6dbbaa2db12ab50781c9147553a6f01d.m3u8
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/1492_cmc_imagen_1634665407.png", CINE MEXICANO
 https://dxmwlv9y37d4r.cloudfront.net/CINEMEXICANO/master.m3u8
 
@@ -172,30 +143,6 @@ https://dxmwlv9y37d4r.cloudfront.net/PLATINO_HD/master.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", CINEMA PLATINO 2
 https://dxmwlv9y37d4r.cloudfront.net/PLATINO2/master.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", GOLDEN
-https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", GOLDEN 2
-https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", GOLDEN 3
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", GOLDEN PREMIERE
-https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", GOLDEN EDGE
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", DE PELICULA
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", DE PELICULA PLUS
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
@@ -209,29 +156,8 @@ https://dxmwlv9y37d4r.cloudfront.net/TVCDEP2/master.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", SKY SPORTS
 https://bit.ly/3LOW2YE
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", ADRENALINA SPORTS NETWORK
-https://linear-393.frequency.stream/dist/studio/393/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", TUDN
-https://linear-356.frequency.stream/dist/studio/356/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", TIGO SPORTS
-https://linear-556.frequency.stream/dist/studio/556/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="DEPORTES", BEiN SPORT
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", TUDN 3
-https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", AFIZZIONADOS
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", TUDN 2
-https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", MLB
-https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", VIX DEPORTES
 https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
@@ -250,9 +176,6 @@ https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 6
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 7
-https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 8
 https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8
@@ -314,9 +237,6 @@ https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 27
 https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 28
-https://linear-382.frequency.stream/mt/studio/382/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 29
 https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
 
@@ -328,9 +248,6 @@ https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", VIX DEPORTES 32
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", MLB
-https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", LA LIGA 1
 https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
@@ -380,17 +297,8 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", CLAN
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", SUNDANCE TV
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", ATRESERIES
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
-
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", STAR TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", LA SEXTA
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", LATINA
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
@@ -398,7 +306,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", AMERICA TV
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951140
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", TV AZTECA HONDURAS
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", A MAS HONDURAS
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png", A MAS GUATEMALA
@@ -415,18 +323,6 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425265-8c.png", TRAVEL XP
 https://d3861c71bb8b43e4be9c2baa3a2de6b7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_TravelXP/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518698-8c.png", TELEHIT MUSICA
-https://linear-418.frequency.stream/dist/studio/418/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title=”MÚSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522528-8c.png, TELEHIT MUSICA PLUS
-https://linear-419.frequency.stream/dist/studio/419/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title=”MÚSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522528-8c.png, TELEHIT
-https://linear-417.frequency.stream/dist/studio/417/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title=”MÚSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522528-8c.png, BANDAMAX
-https://linear-400.frequency.stream/dist/studio/400/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title=”MUSICA” tvg-logo=https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png, TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
