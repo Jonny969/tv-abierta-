@@ -348,7 +348,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3021
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszYyxaPaNzrV4Xm4LnxzJdPvcqVurFAPVJw&usqp=CAU", STINGRAY Y2K
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3020
 
-#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe1xiTcEZXzYvbiO1sAYgaPr9vpereGPn1bg&usqp=CAU", STINGRAY NOTING BUT 
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe1xiTcEZXzYvbiO1sAYgaPr9vpereGPn1bg&usqp=CAU", STINGRAY NOTHIN' BUT 90's
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3028
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png", STINGRAY EURO HITS
@@ -360,41 +360,32 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3022
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png", STINGRAY HIP HOP/R&B
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3024
 
-#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSNEkcMOib_7jr5bUDDatR-jXlZ_9YlgP2mA&usqp=CAU", STINGRAY TODAY’S K-POP
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3018
-
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkSHT-GscdTRucDCCkVgSPTgQjhTfw7hW5JA&usqp=CAU", STINGRAY SOUL STORM 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1950
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY ROCK CLÁSICO 
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+https://d1gblbamdkwl5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rlxixsm66esse/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485193-8c.png", STINGRAY FLASHBACK 70S
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+https://d30hccj9v28bt6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jp7qdac3e1wzj/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY GRANDES EXITOS 
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY GREATEST HITS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY HIT LIST
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hit-list/master.m3u8
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY HOT COUNTRY
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hot-country/master.m3u8
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY ADULT POP
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-pop-adult/master.m3u8
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY ALTERNATIVE ROCK
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-
-#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY POP LATINO
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-
-#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY URBANO
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-rock-alternative/master.m3u8
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY REMEMBER THE 80S
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLhaJJY444mnHL6FwgHIO2WAcY-bnWEDKmJQ&usqp=CAU", STINGRAY SPA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3027
@@ -403,13 +394,61 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3027
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://strapialteox.s3.us-west-002.backblazeb2.com/uploads/Stingray_Karaoke_Hor_RGB_4fd45efb31.png", STINGRAY KARAOKE EN INGLÉS 
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/karaoke-kar000-montreal/distrotv/master.m3u8
 
-#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png", STINGRAY QUELLO
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png", STINGRAY ROMANCE LATINO
+https://dttd1c4ciosbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w5n3gk7saiz48/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", STINGRAY NATURESCAPE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", STINGRAY HOLIDAYSCAPE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6195
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", ZEN-LIFE BY STINGRAY 
+https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", QUELLO BY STINGRAY 
+https://dblg512iwb2z0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0x8iuvxobbqy/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", STINGRAY DJAZZ
+https://d1or3dijypy7w9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fnc447z72mkdf/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", STINGRAY C MUSIC
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_it_stingraycmusic_001.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", CLASSICA BY STINGRAY 
+https://d2bpmlqcx2tu90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0e1oqtyors2s/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="VEVO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", VEVO 2K
+https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8
+
+#EXTINF:-1 group-title="VEVO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", VEVO 90's
+https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="VEVO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", VEVO 80's
+https://d36tolctzl3cf9.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="VEVO tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", VEVO 70's
+https://dqwknz5qopbgu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="VEVO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", VEVO R&B
+https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8
+
+#EXTINF:-1 group-title="VEVO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", VEVO HIP-HOP
+https://d3mzlmrngyf08j.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="VEVO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", VEVO LATINO
+https://d3k7iagvenqkpa.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="STINGRAY MUSIC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", VEVO COUNTRY
+https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tmtp539lujxbj-ssai-prd/playlist.m3u8
+
+#EXTINF:-1 group-title="VEVO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", VEVO ROCK
+https://d1uttzwuh34h7x.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="VEVO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", VEVO POP
+https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vjx2vy3jvs9e.png", RADIO OMEGA
 http://station.radionanet.com:6156/
