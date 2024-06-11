@@ -450,32 +450,44 @@ https://d1uttzwuh34h7x.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="VEVO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png", VEVO POP
 https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vjx2vy3jvs9e.png", RADIO OMEGA
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vjx2vy3jvs9e.png", RADIO OMEGA CDMX
 http://station.radionanet.com:6156/
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png", RADIO DISNEY MX
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png", RADIO DISNEY 92.1 CDMX
 https://18153.live.streamtheworld.com/XHFOFMAAC/HLS/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988", AMOR 95.3 CDMX
 https://27223.live.streamtheworld.com/XHSHFMAAC/HLS/playlist.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa", MATCH CDMX
-https://23103.live.streamtheworld.com/XHPOPFMAAC/HLS/playlist.m3u8
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa", MATCH 99.3 CDMX
+https://25083.live.streamtheworld.com/XHPOPFMAAC/HLS/playlist.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://radionotas.com/wp-content/uploads/2019/10/KE-BUENA-953.png", LA KE BUENA CDMX
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://radionotas.com/wp-content/uploads/2019/10/KE-BUENA-953.png", LA KE BUENA 92.9 CDMX
 https://26733.live.streamtheworld.com/KEBUENAAAC.aac
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://lamejor.com.mx/wp-content/themes/la-mejor-theme/dist/images/logo.png", LA MEJOR FM CDMX
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://lamejor.com.mx/wp-content/themes/la-mejor-theme/dist/images/logo.png", LA MEJOR 97.7 FM CDMX
 https://26193.live.streamtheworld.com/XERCFMAAC_SC
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1280px-Los_40.svg.png", LOS 40 101.7 CDMX
 https://18363.live.streamtheworld.com/LOS40_MEXICOAAC.aac
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf8wce_o2McDDIec95HejRA4tXrd8MTYYJOA&usqp=CAU", LA Z CDMX
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf8wce_o2McDDIec95HejRA4tXrd8MTYYJOA&usqp=CAU", LA Z 107.3 CDMX
 https://26373.live.streamtheworld.com/XEQR_FMAAC.aac
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXgqXxhx8ce8Jac7QvTiVudfl3GClTNqVBg&usqp=CAU", ALFA 91.3 CDMX
 https://24503.live.streamtheworld.com/XHFAJ_FMAAC.aac
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXgqXxhx8ce8Jac7QvTiVudfl3GClTNqVBg&usqp=CAU", W RADIO 96.9 CDMX
+https://24423.live.streamtheworld.com/W_RADIOAAC.aac
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXgqXxhx8ce8Jac7QvTiVudfl3GClTNqVBg&usqp=CAU", 88.9 NOTICIAS CDMX
+https://15113.live.streamtheworld.com/XHMFMAAC/HLS/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXgqXxhx8ce8Jac7QvTiVudfl3GClTNqVBg&usqp=CAU", EXA FM 104.9 CDMX
+https://18823.live.streamtheworld.com/XHDFMFMAAC/HLS/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXgqXxhx8ce8Jac7QvTiVudfl3GClTNqVBg&usqp=CAU", 106.5 MIX CDMX
+https://14103.live.streamtheworld.com/XHPOPFMAAC/HLS/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://yt3.googleusercontent.com/bC9HC5Esmlp6_k0ZqrVyj-wNek5qnMYx-XX0RlWDYSwuS8bA70Evtfg79EA_C6uVTB4JlPW7=s900-c-k-c0x00ffffff-no-rj", WILD EARTH
 https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
