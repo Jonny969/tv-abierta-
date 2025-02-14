@@ -12,7 +12,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_uno/vmx/index.mpd
  
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://edge.prod.ovp.ses.com:4446/
+#KODIPROP:inputstream.adaptive.license_key=https://mscs1.prod.ovp.ses.com:9194/policy_manager/v4/drm_proxy/
 #EXTVLCOPT:http-referrer=https://mvshub.com.mx
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
