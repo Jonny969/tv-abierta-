@@ -5,4 +5,4 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="165" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png" group-title="IZZI GO",MUSIC ESTANDAR
-https://live4-ott.izzigo.tv/out/u/dash/MUSIC-ESTANDARES/default.mpd
+https://live1-ott.izzigo.tv/12/out/u/dash/CANAL-5-HD/default.mpd
