@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF: -1 tvg-chno="101" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1111030-8c.png" group-title="TV NACIONAL", AZTECA UNO
-http://104.238.222.251:9000/get/h67cxCCgH35Y9B7mw6f-LUZXMHZmRTAyS0Z5cjNZRmZrNUlScng2a1FQdC81MVpMbzNnQ1hFUnFuT2VHSlY1TWhkbjRFdXlmVE9DekVVMlovQnNYdWY2WFpDT1VhR1plcVYzMDFBPT0.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158618.m3u8
 
 #EXTINF: -1 tvg-chno="102" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png" group-title="TV NACIONAL", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF: -1 tvg-chno="103" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="TV NACIONAL", IMAGEN TV
-http://104.238.222.251:9000/get/HnRCDG7LonkpSZmCOxTh72Q3SGNBRVRWOERqclBJdU9rYlhiMjErUnN2T3p5VlFQQnBHYXNRZEltRWNteU1pTGRDdENhY3J3cnQ1T0l1ZFNsNkdZK2QyZFk2c09VeXY1SnU2Tkl3PT0.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158628.m3u8
 
 #EXTINF: -1 tvg-chno="104" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png" group-title="TV NACIONAL", FORO TV
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158627.m3u8
@@ -21,8 +21,105 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 #EXTINF: -1 tvg-chno="107" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522484-8c.png" group-title="TV NACIONAL", AZTECA 7
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158617.m3u8
 
-#EXTINF: -1 tvg-chno="108" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", POP COORN CENTRAL
-https://stream.ads.ottera.tv/cl/260115d5kjlg9hcho6i09c6180/1920x1080_4787200_1_f.m3u8?i=475_16478
+#EXTINF: -1 tvg-chno="108" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TV NACIONAL", HERALDO TV
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298432.m3u8
 
 #EXTINF: -1 tvg-chno="109" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TV NACIONAL", NUEVE
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278360.m3u8
+
+#EXTINF: -1 tvg-chno="110" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", POP COORN CENTRAL
+https://stream.ads.ottera.tv/cl/260115d5kjlg9hcho6i09c6180/1920x1080_4787200_1_f.m3u8?i=475_16478
+
+#EXTINF: -1 tvg-chno="111" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", CANAL 11
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278332.m3u8
+
+#EXTINF: -1 tvg-chno="112" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", QUIERO TV
+https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="113" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", CANAL13
+https://player.castr.com/live_55784330f36711ee97a7a19a8448730c
+
+#EXTINF: -1 tvg-chno="114" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", CANAL14
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="115" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", UNIFE
+https://243016.global.ssl.fastly.net/683635db3563dcbb52ec2589/live_94b8e9b0504411f08e6a355964ce095b/index.m3u8
+
+#EXTINF: -1 tvg-chno="116" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", VIBE TV
+https://5ca9af4645e15.streamlock.net:443/vibetv/videovibetv/playlist.m3u8?
+
+#EXTINF: -1 tvg-chno="117" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", MEXICO TRAVEL CHANNEL
+https://5ca9af4645e15.streamlock.net:443/mexicotravel/videomexicotravel/playlist.m3u8?
+
+#EXTINF: -1 tvg-chno="118" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", TV MIGRANTE
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="119" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", RT EN ESPAÑOL
+https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
+
+#EXTINF: -1 tvg-chno="120" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", TV UNAM
+https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
+
+#EXTINF: -1 tvg-chno="121" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", CAPITAL 21
+https://video.cdmx.gob.mx/redes/stream.m3u8
+
+#EXTINF: -1 tvg-chno="122" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", CANAL 22
+https://5fc584f3f19c9.streamlock.net:443/canal22/videocanal22/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="123" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", MX NUESTRO CINE
+https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="124" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", MILENIO TV
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF: -1 tvg-chno="125" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", PLURAL TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="126" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", TV MAS 
+https://5f1af61612fb5.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="127" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  FRANCE 24
+https://s5.mexside.net:1936/france24/france24/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="128" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  CGTN EN ESPAÑOL
+https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8?
+
+#EXTINF: -1 tvg-chno="129" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  DW EN ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream04/streamPlaylist.m3u8
+
+#EXTINF: -1 tvg-chno="130" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  AZTECA UNO -2HRS
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278320.m3u8
+
+#EXTINF: -1 tvg-chno="131" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  LAS ESTRELLAS -2HRS
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158631.m3u8
+
+#EXTINF: -1 tvg-chno="132" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  LAS ESTRELLAS -1HRS
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298380.m3u8
+
+#EXTINF: -1 tvg-chno="133" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  ADN NOTICIAS
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278315.m3u8
+
+#EXTINF: -1 tvg-chno="134" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  MEXIQUENSE TV 34.1
+https://5e50264bd6766.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="135" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  MEXIQUENSE TV 34.2
+https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF: -1 tvg-chno="145" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  CANAL DEL CONGRESO 45.1
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.2_kd5oiNTTWO0gEOFc423456787er_adaptive.m3u8
+
+#EXTINF: -1 tvg-chno="146" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  CANAL DEL CONGRESO 45.2
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834_adaptive.m3u8
+
+#EXTINF: -1 tvg-chno="147" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  CANAL DEL CONGRESO 45.3
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.3_kd5oiNTTWO0gEOFc875423kf52_adaptive.m3u8
+
+#EXTINF: -1 tvg-chno="150" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF: -1 tvg-chno="152" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL",  MVS TV
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF: -1 tvg-chno="702" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="MUSICA",  TELERITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?
+
