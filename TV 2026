@@ -28,7 +28,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298432.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278360.m3u8
 
 #EXTINF: -1 tvg-chno="110" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", POP COORN CENTRAL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16478
 
 #EXTINF: -1 tvg-chno="111" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="TV NACIONAL", CANAL 11
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278332.m3u8
