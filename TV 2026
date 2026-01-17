@@ -18,17 +18,17 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278329.m3u8
 #EXTINF: -1 tvg-chno="106" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522484-8c.png" group-title="TV NACIONAL", CANAL 6
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 
-#EXTINF: -1 tvg-chno="107" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522484-8c.png" group-title="TV NACIONAL", AZTECA 7
+#EXTINF: -1 tvg-chno="107" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png" group-title="TV NACIONAL", AZTECA 7
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158617.m3u8
 
-#EXTINF: -1 tvg-chno="108" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TV NACIONAL", HERALDO TV
+#EXTINF: -1 tvg-chno="108" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004236-8c.png" group-title="TV NACIONAL", HERALDO TV
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298432.m3u8
 
 #EXTINF: -1 tvg-chno="109" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TV NACIONAL", NUEVE
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278360.m3u8
 
 #EXTINF: -1 tvg-chno="110" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", POP COORN CENTRAL
-https://stream.ads.ottera.tv/cl/260115d5kjlg9hcho6i09c6180/1920x1080_4787200_1_f.m3u8?i=475_16478
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
 
 #EXTINF: -1 tvg-chno="111" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="TV NACIONAL", CANAL 11
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278332.m3u8
@@ -37,7 +37,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278332.m3u8
 https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
 
 #EXTINF: -1 tvg-chno="113" tvg-logo="https://canal13mexico.com/wp-content/uploads/2024/04/cropped-LOGO-CANAL-TRECE.png" group-title="TV NACIONAL", CANAL13
-https://player.castr.com/live_55784330f36711ee97a7a19a8448730c
+https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8
 
 #EXTINF: -1 tvg-chno="114" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="TV NACIONAL", CANAL14
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
@@ -63,7 +63,7 @@ https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 #EXTINF: -1 tvg-chno="121" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="TV NACIONAL", CAPITAL 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
 
-#EXTINF: -1 tvg-chno="122" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", CANAL 22
+#EXTINF: -1 tvg-chno="122" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496852-8c.png" group-title="TV NACIONAL", CANAL 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/videocanal22/playlist.m3u8
 
 #EXTINF: -1 tvg-chno="123" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1122251-8c.png" group-title="TV NACIONAL", MX NUESTRO CINE
@@ -72,7 +72,7 @@ https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8
 #EXTINF: -1 tvg-chno="124" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/525568-8c.png" group-title="TV NACIONAL", MILENIO TV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF: -1 tvg-chno="125" tvg-logo="https://imgn.cdn.iutpcdn./IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="TV NACIONAL", PLURAL TV
+#EXTINF: -1 tvg-chno="125" tvg-logo="https://www.pluraltv.mx/themes/custom/justiciatv_subtheme/images/pluraltv-logo-blanco.svg" group-title="TV NACIONAL", PLURAL TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
 #EXTINF: -1 tvg-chno="126" tvg-logo="https://www.megacable.com.mx/images/canales/1200_tv-mas-hd.png" group-title="TV NACIONAL", TV MAS 
