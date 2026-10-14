@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CanalMVS" tvg-name="tv unam", Nombre del Canal
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mscs1.prod.ovp.ses.com:9191/policy_manager/v4/drm_proxy/widevine
+https://dish.akamaized.net/Content/DASH/Live/channel(tvunam)/variant.mpd
