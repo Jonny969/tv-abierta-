@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CanalMVS" tvg-name="Canal MVS Hub", Canal MVS Hub
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mscs1.prod.ovp.ses.com:9191/policy_manager/v4/drm_proxy/widevine|Cookie=drm-token="\"QUV3VbCPavVqe9opjh6ujAUyWrdVwtg0Kx8iUNl0dJo0h6+5H45jh74GbIstkURkzsfaAkMqA2mjzoZNjqwXxdX6iBwwAA+aHuYec5iWztBgVMuQ8wuppqdDUVBIwA1DV2P5I7aiYDzIMPHxkDv7K5cHQULXjKMqboeW9z15yI70iQ7TPZdZXqDCIZz3KhZs73jLvrlaKbSsrdJD5lP9dyuuyWUdtzKjZjp3A4LqrEnPx4oqQN2Jb95OtMYDRrdTZX5lp4MMCVQg8aqEi0YRWnYfyKZR5x+D0DEJMgFsT1MKB37YPzqOJonf56bwmAO3xPFmJ00N2Qyt+WSNGqpkHmNO8k1W0oKW0x6nsO6FR8mC78ymzN4wQxWnAxDBl73pF4zcDaCZS2/IXxomKjkO/BPHGUN/EVAFCOb8bWeDmD17fZTztuXIP8Ljq3Fckw9Oby79VKqhRtjS15TKwpy3V1mqM9+gQYWING1B6Dn3Peg=\""
+https://dish.akamaized.net/Content/DASH/Live/channel(mexiquensetv)/variant.mpd?
